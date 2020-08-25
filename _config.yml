@@ -1,7 +1,7 @@
 site: CollectorOfJack.com
 
 url: https://www.collectorofjack.com/
-baseurl: 
+baseurl: /collectorofjack
 
 collections:
   pages:
