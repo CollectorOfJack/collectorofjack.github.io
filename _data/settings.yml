@@ -163,6 +163,6 @@ font_settings:
 advanced_settings:
   ajax_loading: true
   analytics_code: ""
-  custom_styles: ""
+  custom_styles: "h2{overflow-wrap:anywhere;}"
   header_js: ""
   footer_js: ""
