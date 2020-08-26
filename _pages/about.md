@@ -2,7 +2,7 @@
 title: About CollectorOfJack.com
 subtitle: A Collector's Blog.
 description: Collector Of Jack is a Jack Daniel's Collector's Blog.
-featured_image: /images/1/post-bg1.jpg
+featured_image: 1/post-bg1.jpg
 ---
 
 ![](/images/1/post-bg1.jpg)

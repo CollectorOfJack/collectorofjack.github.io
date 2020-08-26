@@ -1,6 +1,6 @@
 site: CollectorOfJack.com
 
-url: https://www.collectorofjack.com/
+url: https://collectorofjack.com/
 baseurl: 
 
 collections:
@@ -39,6 +39,9 @@ defaults:
     values:
       layout: "project"
 
+compress_images:
+  images_path: "images/**/*.{gif,png,jpg,jpeg,svg}"
+
 markdown: kramdown
 
 kramdown:
@@ -51,9 +54,17 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll_picture_tag
+  
 
 paginate: 12
 paginate_path: "/page:num/"
+
+picture:
+  source: "images/fullsized"
+  output: "images/generated"
+  suppress_warnings: true
 
 grid_alignments:
   - top
