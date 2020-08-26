@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: CollectorOfJack.com
+  site_title: Collector Of Jack
   favicon_image: /images/favicon.ico
 
 header_settings:
@@ -10,13 +10,15 @@ menu_settings:
   menu_items:
     - title: 'Blog'
       url: '/'
+    - title: 'Hunt List'
+      url: '/huntlist'
     - title: 'About'
       url: '/JackDanielsCollector'
     - title: 'Contact'
       url: '/contact'
 
 footer_settings:
-  footer_tagline: CollectorOfJack.com – A Jack Daniel's Collector's Blog
+  footer_tagline: CollectorOfJack.com – A Jack Daniels Collector's Blog
 
 grid_settings:
   overlay_opacity: 0.8
