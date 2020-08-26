@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@2.0.1
-      - name: Install xmllint
-          run: sudo apt-get install imagemagick
+      - name: Install imagemagick
+        run: sudo apt-get install imagemagick
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
