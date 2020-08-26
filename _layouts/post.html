@@ -15,6 +15,10 @@ layout: default
 
 <section class="single">
 
+	<div class="image-wrap">
+		{% picture {{ page.featured_image | relative_url }} --alt {{ page.title }} %}
+	</div>
+	
 	{{ page.content }}
 
 </section>
