@@ -11,13 +11,13 @@ jobs:
     steps:
       - name: Test Version
         run: convert -version
+
+      - name: Where is convert
+        run: whereis convert
         env:
           PATHEXT: "magick.exe"
       - name: Output ENV
         run: env
-        
-      - name: Output PATHEXT
-        run: env['PATHEXT']
 
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@2.0.1
