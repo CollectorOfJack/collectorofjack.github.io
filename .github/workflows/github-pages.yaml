@@ -19,7 +19,7 @@ jobs:
 
 
       - name: Output ENV path
-        run: env['PATHEXT']
+        run: echo env['PATHEXT']
 
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@2.0.1
