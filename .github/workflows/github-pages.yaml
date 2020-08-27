@@ -17,9 +17,14 @@ jobs:
       - name: Where is convert
         run: whereis convert
 
+      - name: Where is ImageMagick
+        run: whereis imagemagick
 
       - name: Output ENV
         run: printenv PATH
+
+      - name: Add Path
+        run: ::add-path::/path/to/dir
 
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@2.0.1
