@@ -9,11 +9,6 @@ jobs:
   github-pages:
     runs-on: ubuntu-16.04
     steps:
-      - name: Update APT
-        run: sudo apt-get update
-      - name: Update imagemagick
-        run: sudo apt-get install imagemagick --fix-missing
-
       - name: Update 1
         run: sudo apt install software-properties-common -y
       - name: Update 2
