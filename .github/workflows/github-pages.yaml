@@ -13,6 +13,15 @@ jobs:
         run: sudo apt-get update
       - name: Update imagemagick
         run: sudo apt-get install imagemagick --fix-missing
+
+      - name: Update 1
+        run?: sudo apt install software-properties-common -y
+      - name: Update 2
+        run: sudo add-apt-repository ppa:rwky/graphicsmagick -y
+      - name: Update 3
+        run: sudo apt update
+      - name: Update 4
+        run: sudo apt install graphicsmagick -y
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@2.0.1
       
