@@ -15,7 +15,7 @@ jobs:
         run: sudo apt-get install imagemagick --fix-missing
 
       - name: Update 1
-        run?: sudo apt install software-properties-common -y
+        run: sudo apt install software-properties-common -y
       - name: Update 2
         run: sudo add-apt-repository ppa:rwky/graphicsmagick -y
       - name: Update 3
