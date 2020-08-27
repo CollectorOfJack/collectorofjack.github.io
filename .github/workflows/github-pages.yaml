@@ -13,10 +13,9 @@ jobs:
         run: convert -version
         env:
           PATHEXT: "magick.exe"
-            
-
       - name: Output ENV
         run: env
+        run: env['PATHEXT']
 
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@2.0.1
