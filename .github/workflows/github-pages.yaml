@@ -11,9 +11,8 @@ jobs:
     steps:
       - name: Test Version
         run: convert -version
-
-      env:
-            PATHEXT: magick.ext
+        env:
+          PATHEXT: "magick.exe"
             
 
       - name: Output ENV
