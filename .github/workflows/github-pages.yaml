@@ -24,7 +24,7 @@ jobs:
         run: printenv PATH
 
       - name: Add Path
-        run: ::add-path::/usr/bin/convert
+        run: sudo ::add-path::/usr/bin/convert
 
       - name: Output Path After Update
         run: printenv PATH
