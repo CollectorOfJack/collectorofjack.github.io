@@ -11,16 +11,23 @@ jobs:
     steps:
       - name: Test Version
         run: convert -version
+        env:
+          PATHEXT: "magick.exe"
 
       - name: Where is convert
         run: whereis convert
-        env:
-          PATHEXT: "magick.exe"
-      - name: Output ENV
-        run: env
+
+
+      - name: Output ENV path
+        run: env['PATHEXT']
 
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@2.0.1
       
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+
+
+# /usr/bin/convert
+# set an env variable for path to convert 
+# list off stuff in that path?
