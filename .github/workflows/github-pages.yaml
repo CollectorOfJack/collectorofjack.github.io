@@ -9,8 +9,13 @@ jobs:
   github-pages:
     runs-on: ubuntu-16.04
     steps:
-      - name: Test Version of ImageMagick
+      - name: Test Version
         run: convert -version
+      - name: Add GraphicsMagick
+        run: sudo apt-get install graphicsmagick
+      - name: Test Version 2
+        run: convert -version
+
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@2.0.1
       
