@@ -24,7 +24,10 @@ jobs:
         run: printenv PATH
 
       - name: Add Path
-        run: ::add-path::/path/to/dir
+        run: ::add-path::/usr/bin/convert
+
+      - name: Output Path After Update
+        run: printenv PATH
 
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@2.0.1
