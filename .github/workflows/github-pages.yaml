@@ -9,9 +9,10 @@ jobs:
   github-pages:
     runs-on: ubuntu-16.04
     steps:
-      - name: Install imagemagick
+      - name: Update APT
         run: sudo apt-get update
-             sudo apt-get install imagemagick --fix-missing
+      - name: Update imagemagick
+        run: sudo apt-get install imagemagick --fix-missing
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@2.0.1
       
