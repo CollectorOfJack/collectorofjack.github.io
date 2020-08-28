@@ -31,10 +31,6 @@ jobs:
 
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@2.0.1
-        run: |
-          printenv PATH
-          echo "::add-path::/usr/bin/convert"
-          echo "::set-env name=PATHEXT::magick"
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
           PATHEXT: magick
