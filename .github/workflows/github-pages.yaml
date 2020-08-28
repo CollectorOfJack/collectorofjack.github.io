@@ -29,8 +29,8 @@ jobs:
         run: |
           printenv PATH
           echo "::add-path::/usr/bin/convert"
-          echo "::set-env name=PATHEXT::magick"
           printenv PATH
+          echo "::set-env name=PATHEXT::magick"
           printenv PATHEXT
 
 
