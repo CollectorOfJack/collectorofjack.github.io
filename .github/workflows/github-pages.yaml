@@ -30,8 +30,8 @@ jobs:
           printenv PATH
           echo "::add-path::/usr/bin/convert"
           printenv PATH
-          export PATHEXT=$PATHEXT:magick
-          printenv PATHEXT
+         # export PATHEXT=$PATHEXT:magick
+         # printenv PATHEXT
 
 
       - name: Check Action Path
