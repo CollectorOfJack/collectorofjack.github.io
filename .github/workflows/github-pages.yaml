@@ -13,9 +13,9 @@ jobs:
         run: convert -version
           
       - name: Where is convert
-        run: whereis convert
-
-                
+        run: |
+          whereis convert
+          ls /usr/bin/convert
 
       - name: Output Path Before Update
         run: |
