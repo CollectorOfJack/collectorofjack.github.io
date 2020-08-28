@@ -11,8 +11,6 @@ jobs:
     steps:
       - name: Test Version
         run: convert -version
-        env:
-          PATHEXT: "magick.exe"
           
       - name: Where is convert
         run: whereis convert
@@ -24,7 +22,7 @@ jobs:
         run: printenv PATH
 
       - name: Add Path
-        run: sudo ::add-path::/usr/bin/convert
+        run: export PATH=$PATH:/usr/bin/convert
 
       - name: Output Path After Update
         run: printenv PATH
