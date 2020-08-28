@@ -15,14 +15,12 @@ jobs:
       - name: Where is convert
         run: whereis convert
 
-      - name: Where is ImageMagick
-        run: whereis imagemagick
-
       - name: Output ENV
         run: printenv PATH
 
       - name: Add Path
         run: export PATH=$PATH:/usr/bin/convert
+             printenv PATH
 
       - name: Output Path After Update
         run: printenv PATH
