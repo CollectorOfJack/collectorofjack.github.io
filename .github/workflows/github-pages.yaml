@@ -15,27 +15,19 @@ jobs:
       - name: Where is convert
         run: whereis convert
 
-      - name: Output ENV
-        run: printenv PATH
+                
 
-      - name: Add Path
-        run: |
-          printenv PATH
-          export PATH=$PATH:/usr/bin/convert
-          printenv PATH
-
-          
-
-      - name: Output Path After Update
+      - name: Output Path Before Update
         run: |
           printenv PATH
           echo "::add-path::/usr/bin/convert"
-          printenv PATH
+          echo "::set-env name=PATHEXT::magick"
 
 
-      - name: Check Action Path
-        run: 
+      - name: Check Action Path After
+        run: |
           printenv PATH
+          printenv PATHEXT
 
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@2.0.1
