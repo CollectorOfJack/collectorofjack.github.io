@@ -19,8 +19,9 @@ jobs:
         run: printenv PATH
 
       - name: Add Path
-        run: export PATH=$PATH:/usr/bin/convert
-             printenv PATH
+        run: |
+          export PATH=$PATH:/usr/bin/convert
+          printenv PATH
 
       - name: Output Path After Update
         run: printenv PATH
