@@ -20,6 +20,7 @@ jobs:
 
       - name: Add Path
         run: |
+          printenv PATH
           export PATH=$PATH:/usr/bin/convert
           printenv PATH
 
