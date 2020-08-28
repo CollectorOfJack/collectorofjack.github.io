@@ -37,6 +37,9 @@ jobs:
           echo "::set-env name=PATHEXT::magick"
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+          PATHEXT: magick
+          PATH: $PATH:/usr/bin/convert
+
 
 
 # /usr/bin/convert
