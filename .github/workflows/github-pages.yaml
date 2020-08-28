@@ -25,13 +25,11 @@ jobs:
 
           
 
-      - name: Output Path After Update and EXT
+      - name: Output Path After Update
         run: |
           printenv PATH
           echo "::add-path::/usr/bin/convert"
           printenv PATH
-         # export PATHEXT=$PATHEXT:magick
-         # printenv PATHEXT
 
 
       - name: Check Action Path
