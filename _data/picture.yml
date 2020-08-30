@@ -13,6 +13,7 @@ markup_presets:
   default:
     # markup: picture
     widths: [400, 800, 1600, 2600]
+    fallback_width: 1600
     # attributes:
     #   picture: 'class="blog-full" itemprop="image"'
 
