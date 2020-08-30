@@ -20,7 +20,6 @@ markup_presets:
       
   # Full width pictures, multiplier based srcset
   default-ppi:
-    markup: picture
     base_width: 350
     pixel_ratios: [1, 1.5]
     # attributes:
