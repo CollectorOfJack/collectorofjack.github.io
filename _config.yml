@@ -56,7 +56,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll_picture_tag
-  
 
 paginate: 12
 paginate_path: "/page:num/"
@@ -64,7 +63,7 @@ paginate_path: "/page:num/"
 picture:
   source: "images/fullsized"
   output: "images/generated"
-  suppress_warnings: true
+  suppress_warnings: false
 
 grid_alignments:
   - top
