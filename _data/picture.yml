@@ -16,8 +16,7 @@ markup_presets:
     fallback_width: 1600
     # attributes:
     #   picture: 'class="blog-full" itemprop="image"'
-
- 
+     
       
   # Full width pictures, multiplier based srcset
   default-ppi:
