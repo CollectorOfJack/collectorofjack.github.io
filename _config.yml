@@ -7,6 +7,9 @@ baseurl: ''
 author: Chris Hammond
 title: CollectorOfJack.com
 
+feed:
+  excerpt_only: true
+
 collections:
   pages:
     output: true
