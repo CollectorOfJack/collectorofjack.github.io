@@ -1,7 +1,11 @@
 site: CollectorOfJack.com
 
+
 url: https://collectorofjack.com
-baseurl: 
+baseurl: ''
+
+author: Chris Hammond
+title: CollectorOfJack.com
 
 collections:
   pages:
