@@ -21,7 +21,8 @@ markup_presets:
 
   ogimage:
     markup: direct_url
-    widths: [800, 1200]
+    fallback_width: 1200
+    
 
       
   # Full width pictures, multiplier based srcset
