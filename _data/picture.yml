@@ -17,6 +17,12 @@ markup_presets:
     # attributes:
     #   picture: 'class="blog-full" itemprop="image"'
      
+
+
+  ogimage:
+    markup: direct_url
+    widths: [800, 1200]
+
       
   # Full width pictures, multiplier based srcset
   default-ppi:
