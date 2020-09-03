@@ -3,10 +3,10 @@ title: 'Demo Project'
 subtitle: 'This is a demo'
 date: 2018-06-30 00:00:00
 description: Collector of Jack Projects.
-featured_image: '/images/about-bg-1.jpg.jpg'
+featured_image: 'about-bg-1.jpg'
 ---
 
-![](/images/demo/landscape-01.jpg)
+![](about-bg-1.jpg)
 
 ## Demo content
 
