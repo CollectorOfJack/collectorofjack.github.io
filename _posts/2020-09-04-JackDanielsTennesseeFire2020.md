@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jack Daniel's Master Distiller Jeff Arnett
+title: Jack Daniel's Tennessee Fire Updated Bottle
 date: '2020-09-04T00:00:00+00:00'
 permalink: JackDanielsTennesseeFire2020
 featured_image: 35/JackDanielsFire2020-1.jpg
