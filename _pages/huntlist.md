@@ -5,7 +5,7 @@ description: Collector Of Jack is a Jack Daniel's Collector's Blog page dedicate
 featured_image: about-bg-1.jpg
 ---
 
-![](/images/about-bg-1.jpg)
+![](about-bg-1.jpg)
 
 This site is where I document my collection, but I am always looking to grow that collection. This page is a first attempt at putting together a list of Jack Daniel's bottles and memorabilia that I am searching for. This is not an all inclusive list, I am definitely looking for more than this, so if you've got something you're interested in parting with, let me know.
 

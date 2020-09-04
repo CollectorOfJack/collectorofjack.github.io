@@ -15,14 +15,16 @@ That doesn't take anything away from what Jeff has done for the brand in his tim
 
 I was fortunate to get to say hello to Jeff back in December 2014 during the bottle signing event for the Holiday Select release, the last time JD has offered that release. The photos on this post are from that event.
 
-#### A Letter to Jeff
+## A Letter to Jeff
 
 > Dear Jeff,  
+>  
 > Thanks for everything you've done for the Jack Daniel's Brand in your 12 years as Master Distiller and 20 years as an employee. Best wishes with whatever the future brings you. Anytime you are in the St. Louis area, feel free to swing by for a drink!  
+>  
 > -Collector Of Jack
 
 
-#### Who will take Jeff's Place and be the next Master Distiller?
+## Who will take Jeff's Place and be the next Master Distiller?
 
 Word is that Brown Foreman will make the announcement for Jeff's replacement in the future. I think Chris Fletcher, Assistant Master Distiller, is obviously a potential pick, but he's rather young, will that play into the decision?
 

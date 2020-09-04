@@ -9,15 +9,15 @@ description: The 2020 Release of the Limited Edition Jack Daniel's Eric Church S
 
 In July/August 2020 Jack Daniel's released the 2020 version of the Eric Church Single Barrel Select bottle, a follow on release after their [2019 Eric Church Double Down Tour Single Barrel](https://collectorofjack.com/JackDanielsEricChurch). This year's bottle is a beautiful opaque black with a black and gold label. It came with a paper hang tag, also in black and gold.
 
-#### The front of the label, and the front of the hang tag reads:
+## The front of the label, and the front of the hang tag reads:
 > Special Edition Jack Daniel's Eric Church Single Barrel Select Tennessee Whiskey
 
-#### The rear of the hang tag reads:
+## The rear of the hang tag reads:
 > Music and friendships were always important to Mr. Jack. That's why we are proud to offer this special edition Jack Daniel's single barrel package celebrating our longstanding friendship with Eric Church who shares Jack Daniel's spirit of Community. In 2013 Eric and his wife, Katherine, created the non-profit "Chief Cares Fund" to impact lives around the globe and in our own neighborhoods.
 
 > For more information go to: www.ericchurch.com/chief-cares 
 
-#### The rear of the bottle reads:
+## The rear of the bottle reads:
 > This special edition Jack Daniel's single barrel package celebrates our friendship with Eric Church. Master Distiller, Jeff Arnett hand-selected this 94 proof single barrel Tennessee Whiskey according to Eric Church's favorite Jack Daniel's taste profile.
 
 In the photos below you might notice a metal hang tag as well. That tag was created by the Sunshine State Squires group on Facebook and available for purchase through them, though I don't believe it is still available for purchase.
@@ -25,8 +25,7 @@ In the photos below you might notice a metal hang tag as well. That tag was crea
 There are a variety of dates of bottling for the 2020 edition of the Eric Church release, with some dates in June 2020 and July 2020. I have bottles with both 6/26/2020 and 7/23/2020 bottling dates.
 
 
-
-### The Hunt
+## The Hunt
 The Eric Church Single Barrel release was a hard to find bottle in 2020, selling very quickly where available. On Wednesday July 29th I was able to track down a bottle in Texas which I ordered and had a family member pick up. That order is still sitting in my cousin's house in Texas until we can find a time to meet up post covid. 
 
 I found that Total Wine in Fairview Heights Illinois had it available online the morning of Saturday August 1st. I quickly placed an order for 3, packed the kids up in the car and headed out to run errands that morning. I was tempted to drive straight to IL to get them, but decided to stop and pick up a few fishing supplies before our camping trip that week. 

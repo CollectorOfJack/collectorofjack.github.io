@@ -8,10 +8,10 @@ description: 1796-1996 A special release honoring the state of Tennessee's Bicen
 ---
 In 1995 Jack Daniel's released a 750ml bottle to celebrate the State of Tennessee's Bicentennial for the year 1996. This replica of the 1896 Centennial bottle that Jack Daniel produced in limited quantities was available in in the US, and in international markets in a 700ml size.
 
-#### The front of the bottle reads:
+## The front of the bottle reads:
 > Jack Daniel's Tennessee Bicentennial Whiskey 1796-1996
 
-#### The hang tag reads:
+## The hang tag reads:
 > In honor of our state's 200th birthday, we'd like to share a simple salute with you. Our Tennessee Bicentennial Bottle is a replica of the Centennial Decanter Mr. Jack designed back in 1896. And, like the decanter the whiskey inside has remained true to the original except for one special difference-it's bottled at 96 proof in honor of this bicentennial year. *Here's to the enduring spirit of Tennessee tradition.* 1796-1996
 
 
