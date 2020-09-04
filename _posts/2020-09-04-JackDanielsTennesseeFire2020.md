@@ -7,7 +7,7 @@ featured_image: 35/JackDanielsFire2020-1.jpg
 description: Jack Daniel's Tennessee Fire a red hot cinnamon liqueur mixed with Old No. 7 Whiskey.
 ---
 
-Somehow I haven't blogged about the Jack Daniel's Tennessee Fire, and here we are with a second iteration of the bottle already! Maybe soon we'll get some pictures of the original bottle, for now we'll cover the newly designed bottle that was released in 2020.
+Somehow I haven't blogged about the Jack Daniel's Tennessee Fire, and here we are with a second iteration of the bottle already! Maybe soon we'll get some pictures of the original bottle, for now we'll cover the newly designed bottle that was released in 2019 and most markets in 2020.
 
 Tennessee Fire was the second offering of flavored liqueurs from Jack Daniel's, first was Honey, and third was Tennessee Apple.
 
@@ -33,7 +33,7 @@ The label on the bottle is red, with gold and black trim, along with white and g
 > Highest Quality  
 >  
 > Bold Flavor  
-> Our Tennessee Fire has the distinctive taste of JAck Daniel's Tennessee Whiskey and the Warmth of Cinnamon for a unique and rewarding taste.  
+> Our Tennessee Fire has the distinctive taste of Jack Daniel's Tennessee Whiskey and the Warmth of Cinnamon for a unique and rewarding taste.  
 > Enjoy Chilled  
 
 ## Tennessee Fire Thoughts
