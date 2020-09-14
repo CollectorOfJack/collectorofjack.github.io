@@ -2,10 +2,12 @@
 title: CollectorOfJack.com Hunt list
 subtitle: A List of Things We're Looking For
 description: Collector Of Jack is a Jack Daniel's Collector's Blog page dedicated to items we are looking for.
-featured_image: about-bg-1.jpg
+featured_image: huntlist-1.jpg
 ---
 
-![](about-bg-1.jpg)
+<div class="image-wrap">
+    {% picture {{ page.featured_image | relative_url }} --alt {{ page.title }} %}
+</div>
 
 This site is where I document my collection, but I am always looking to grow that collection. This page is a first attempt at putting together a list of Jack Daniel's bottles and memorabilia that I am searching for. This is not an all inclusive list, I am definitely looking for more than this, so if you've got something you're interested in parting with, let me know.
 
