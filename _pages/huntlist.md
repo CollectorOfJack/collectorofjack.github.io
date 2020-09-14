@@ -12,7 +12,6 @@ featured_image: huntlist-1.jpg
 This site is where I document my collection, but I am always looking to grow that collection. This page is a first attempt at putting together a list of Jack Daniel's bottles and memorabilia that I am searching for. This is not an all inclusive list, I am definitely looking for more than this, so if you've got something you're interested in parting with, let me know.
 
 ## Items for I'm Looking For
-* Eric Church Single Barrel 2020
 * Master Distiller Series No. 1 (1 Liter)
 * Jack Daniel's Alabama Bicentennial
 
@@ -27,4 +26,5 @@ This site is where I document my collection, but I am always looking to grow tha
 * Jack Daniel's Holiday Calendar 2019
 * 2019 Heritage Barrel
 * Eric Church Single Barrel 2020
+* Eric Church Single Barrel 2019
 
