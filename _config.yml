@@ -72,7 +72,7 @@ picture:
   source: "images/fullsized"
   output: "images/generated"
   suppress_warnings: true
-  ignore_missing_images: true
+  ignore_missing_images: false
 
 grid_alignments:
   - top
