@@ -2,7 +2,7 @@
 title: CollectorOfJack.com Hunt list
 subtitle: A List of Things We're Looking For
 description: Collector Of Jack is a Jack Daniel's Collector's Blog page dedicated to items we are looking for.
-featured_image: Huntlist-1.jpg
+featured_image: huntlist-1.jpg
 ---
 
 <div class="image-wrap">
