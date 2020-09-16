@@ -1,97 +1,53 @@
 ---
 layout: post
-title: Jack Daniel's Riverboat Captain's Bottle
-date: '2020-09-13T22:00:00+00:00'
-permalink: JackDanielsRiverboatCaptainBottle
-featured_image: 36/RiverboatCaptain-1.jpg
-description: Jack Daniel's Riverboat Captain's Bottle from 1987
+title: Jack Daniel's 160th Birthday Bottle 1850-2010
+date: '2020-09-16T10:00:00+00:00'
+permalink: JackDanielBirthday160Bottle
+featured_image: 37/CollectorOfJack-15.jpg
+description: Mr. Jack's 160th Birthday 1850 to 2010
 ---
 
-In September 2020, I received an email via my website asking if I might be interested in a bottle for sale. 
+In 2010, the Jack Daniel's distillery released a beautiful black bottle for Jack Daniel's 160th birthday. No one is actually sure what day in the month of September is his actual birthday, so they celebrate all month long in Lynchburg Tennessee. The bottle came with a black box, both adorned in white silver and red accents.
 
-> I am in the process of liquidating estate items.  One of the items is a Jack Daniels decanter "Riverboat Captain's Bottle".  I have not found any way to sell on the internet and maybe you have some idea how to sell to a collector.  This is an unsealed full bottle of 90 proof.  It also has the box, and tag (unregistered).  I would be glad to send pictures if I had your email address.  
+I figured September 2020 was a good time to post this! We're halfway through the month of September, so Happy Birthday Jasper Newton Daniel!
 
-> Any help would be appreciated. 
+## 160th Birthday Bottle and Box
+The front of the box and bottle read:
+> Jack Daniel's Old No. 7 Brand
+> Mr. Jack's 160th Birthday 1850 to 2010
+> Sour Mash Tennessee Whiskey
 
-This was actually the second time that someone had reached out to me in the past couple of weeks asking me about items that they were trying to sell from a family member. Both peaked my interest, but this particular email worked out because the seller was in Des Moines, about 340 miles from St. Louis. The other inquiry was from near Knoxville, close to 500 miles from St. Louis. 
+The back of the box and side of the bottle read: 
+> Jasper Newton "Jack" Daniel 1580 to 2010
+> How do we honor Mr. Jack's 160th Birthday? The same way we honor him every day of the year. All Jack ever asked was "Every day we make it we make it the best that we can." HE was talking about his whiskey, of course. So we honor hyim on thi birthday by making good on his request with the bottle you now hold.
 
-I replied back to the inquiry and let them know I would be interested in the Riverboat Captain's Bottle, after a few emails back and forth we settled on a price and the seller even offered to meet me near Kansas City. Not quite on the most direct route to Des Moines, but still close enough for a day's round trip drive. 
-
-I got up early this morning, changed the tires on the car, and headed off. Why did I need to change the tires? I decided to drive the FR-S, and had the "good" tires on it, with a few hundred mile drive, I didn't feel like putting those miles on the tires with a few autocross events left in 2020, so I threw the stock wheels and cheap tires back on the car and took off west. 
-
-## Riverboat Captain's Bottle Box
-The Riverboat Captain's Bottle comes with a large box, with a riverboat picture on three sides, and text and a photo of the bottle on the rear. This particular box has a price tag on it, $29.99, imagine that. Back in 1987, this bottle could have been purchased for $30. Today it goes for north of $600 online.
-
-The rear of the box reads:
-
-> He was a fine high-minded man, and greatly respected both ashore and on the river. He was very tall, well built and handsome; and in his old age - as I remember him - his hair was black as an Indian's and his eye and hand were strong and steady and his nerve and judgement as firm and dear as anybody's young or old, among the FRATERNITY of PILOTS. Mark Twain
+## 160th Birthday Hang Tag
+There is black and red hang tag included with the bottle as well that reads:
+> We're proud to honor Mr. Jack Daniel of Lynchburg, Tennessee, on his 160th Birthday. Who would have guessed this man who stood just 5'2" tall would grow in international stature and be celebrated today in more than 135 countries? It's a testament to Mr. Jack's dedication and craft as a whiskey maker, and we hope you'll join us in raising a glass to his life and his life's work. Here's to Jack.
 
 
-## Hang Tag
-The bottle came with a hang tag in black and gold, with red, and quite a bit of text. The front of the hang tag read:
-
-> Jack Daniel's Old No. 7. Riverboat Captain's Bottle
-> He was a fine high-minded man, and greatly respected both ashore and on the river. He was very tall, well built and handsome; and in his old age - as I remember him - his hair was black as an Indian's and his eye and hand were strong and steady and his nerve and judgement as firm and dear as anybody's young or old, among the FRATERNITY of PILOTS. Mark Twain
-
-The inside of the hang tag read:
-
-> Getting Old No. 7 Aboard the Floating Palaces  
-> Since he was a traveling whiskey salesman, Mr. Jack Daniel could be found in Nashville almost as often as in Lynchburg. And one of those natural attractions of the city in those days was the wharf at the end of Broad Street. 
-
-> To most folks, the visiting packets, showboats and tinsel-covered steamers, plus the sign of towering cotton bales and tobacco being carries by mules and roustabouts made the riverport one of the most exciting places on earth.  
-
-> But what intrigued Mr. Daniel about the riverfront signs was the abundance of "the carriage trade" awaiting passage to far-off places. If Old No. 7 won the approval of these folks, it would add considerable to his product's growing reputation. That's when Mr. Jack resolved to court the favor of the riverboat captain.  
-
-> Amongst the waiting congregation, the most noticeable individual was the riverboat captain. A dramatic presence, dressed in a glimmer of white or the luster of polished black, the Captain did not merely participate in riverport gatherings, he presided over them.  
-
-> He'd tip his hate to the ladies and invite affluent planters and other members of the gentry on board for conversation. These gatherings inevitably led to a sampling of superb cigars and fine whiskey from Captain's private stock.  
-
-> For in the end, the riverboat captain was a businessman who understood that a steamboat with a fine reputation for accommodations -- staterooms, food and drink -- would prosper.  
-
-> Mr. Jack Daniel knew it too. That's why he approached the riverboat captain of the Tennessee Belle with a most generous proposition.  
-
-> "Sir, I have travelled far and wide selling my fine Tennessee sippin 'whiskey and never had less than praiseworthy reports from my customers. It's as fine a potable as you could offer to your personal friends. All I ask is you take one sip. If you like it, I'll see to it that your bottle is filled with Old. No. 7 every time you visit Nashville."  
-
-> Mr. Jack believed that a sip of Tennessee's finest was all it would take to convince the most contrary soul. And once it became the personal choice of the captain, Uncle Jack knew his Old Number 7 would soon find its way to the taverns in the steamboat's grand salon, where it could be consumed and appreciated by the "the carriage trade."  
-
-> So, for years to come, spectators at the Nashville wharf became accustomed to seeing several kegs of Old No. 7, along with the mules and roustabouts, the bales of cotton and tobacco, all anticipating the arrival of steamboats.  
-
-> Even at the turn of the century, when steamboat travel was in its decline, a visiting riverboat captain might be overheard asking the whereabouts of Mr. Jack Daniel. Whether Mr. Jack was on hand or not, there was always an ample supply of his fine Tennessee sippin' whiskey reserved for the steamboat master's personal bottle. After all, a deal's a deal.
-
-> The bottle you hold, the RIVERBOARD CAPTAIN'S BOTTLE, was created to reflect the elegance of the days when steamboats ruled the great waters of our nation. The bell design tapers into a perfectly flat bottom to discourage tipping, a feature the Captains of the era fully appreciated in times of rough waters.  
-
-> You'll be pleased to know that the whiskey inside your RIVERBOAT CAPTAIN'S BOTTLE is still made the old way -- the same mellow potable Mr. Jack Daniel offered to the carriage trade of the steamboat age.
 
 ## The Bottle
-The bottle itself is adorned with only a strip around the neck and the words Jack Daniel's Old No. 7 on the front. 
+The bottle itself is adorned with a black label, and a black/red tax stamp recreation. As far as I am aware, this is the first black bottle from Jack Daniel's, and not seen in the United States again until the 2020 Eric Church single barrel release. There was a 161st birthday bottle, with square corners, released in the UK in 2011. The bottle is the older familiar rounded corner design. There is also rumors that it was available in a 1L size in some states, but I haven't seen that with my own eyes.
 
-I am super stoked about this bottle myself. I can't wait to build my shelving/storage so that I can properly display this bottle. The box I received has seen better days, it still holds it's shape, and will hold the bottle. I don't know how I will display the box in the future.
+You can find the bottle online, listed around $570 as of September 2020.
 
 #### Specs
 
-**Release:** 1987  
-**Proof:** 90  
-**Size:** 1.75L  
-**Price:** $29.99  
+**Release:** 2010  
+**Proof:** 80  
+**Size:** 750ml  
+**Price:** $29.99 
 
 <div class="gallery" data-columns="3">     
-    {% picture 36/RiverboatCaptain-1.jpg --alt {{ page.title }}  %}
-    {% picture 36/RiverboatCaptain-2.jpg --alt {{ page.title }}  %}
-    {% picture 36/RiverboatCaptain-3.jpg --alt {{ page.title }}  %}
-    {% picture 36/RiverboatCaptain-4.jpg --alt {{ page.title }}  %}
-    {% picture 36/RiverboatCaptain-5.jpg --alt {{ page.title }}  %}
-    {% picture 36/RiverboatCaptain-6.jpg --alt {{ page.title }}  %}
-    {% picture 36/RiverboatCaptain-7.jpg --alt {{ page.title }}  %}
-    {% picture 36/RiverboatCaptain-8.jpg --alt {{ page.title }}  %}
-    {% picture 36/RiverboatCaptain-9.jpg --alt {{ page.title }}  %}
-    {% picture 36/RiverboatCaptain-10.jpg --alt {{ page.title }}  %}
-    {% picture 36/RiverboatCaptain-11.jpg --alt {{ page.title }}  %}
-    {% picture 36/RiverboatCaptain-12.jpg --alt {{ page.title }}  %}
-    {% picture 36/RiverboatCaptain-13.jpg --alt {{ page.title }}  %}
-    {% picture 36/RiverboatCaptain-14.jpg --alt {{ page.title }}  %}
-    {% picture 36/RiverboatCaptain-15.jpg --alt {{ page.title }}  %}
-    {% picture 36/RiverboatCaptain-16.jpg --alt {{ page.title }}  %}
-    {% picture 36/RiverboatCaptain-17.jpg --alt {{ page.title }}  %}
-    {% picture 36/RiverboatCaptain-18.jpg --alt {{ page.title }}  %}
-    {% picture 36/RiverboatCaptain-19.jpg --alt {{ page.title }}  %}
+    {% picture 37/CollectorOfJack-11.jpg --alt {{ page.title }}  %}
+    {% picture 37/CollectorOfJack-12.jpg --alt {{ page.title }}  %}
+    {% picture 37/CollectorOfJack-13.jpg --alt {{ page.title }}  %}
+    {% picture 37/CollectorOfJack-14.jpg --alt {{ page.title }}  %}
+    {% picture 37/CollectorOfJack-15.jpg --alt {{ page.title }}  %}
+    {% picture 37/CollectorOfJack-16.jpg --alt {{ page.title }}  %}
+    {% picture 37/CollectorOfJack-17.jpg --alt {{ page.title }}  %}
+    {% picture 37/CollectorOfJack-18.jpg --alt {{ page.title }}  %}
+    {% picture 37/CollectorOfJack-19.jpg --alt {{ page.title }}  %}
+    {% picture 37/CollectorOfJack-20.jpg --alt {{ page.title }}  %}    
 </div>
