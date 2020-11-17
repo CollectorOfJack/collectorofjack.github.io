@@ -28,6 +28,7 @@ The back of the box reads:
 
 > Do't get burned. Drink responsibly.
 
+The bottle is a previous generation Tennessee Fire Bottle, reading Original Recipe on the front, instead of the current (2020) Cinnamon Spice label.
 
 
 #### Specs
