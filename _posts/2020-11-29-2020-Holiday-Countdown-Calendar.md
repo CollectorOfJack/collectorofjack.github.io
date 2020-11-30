@@ -3,7 +3,7 @@ layout: post
 title: 2020 Holiday Countdown Calendar
 date: '2020-11-29T20:00:00+00:00'
 permalink: 2020HolidayCountdownCalendar
-featured_image: 40/2020HolidayCountDown-1.jpg
+featured_image: 40/HolidayCountdown2020-1.jpg
 description: 2020's Advent Calendar
 ---
 
@@ -43,11 +43,11 @@ If you're looking for last year's calendar, we've still got some to trade for ot
 **Price:** $40.99  
 
 <div class="gallery" data-columns="3">     
-    {% picture 40/2020HolidayCountdown-1.jpg --alt {{ page.title }}  %}
-    {% picture 40/2020HolidayCountdown-2.jpg --alt {{ page.title }}  %}
-    {% picture 40/2020HolidayCountdown-3.jpg --alt {{ page.title }}  %}
-    {% picture 40/2020HolidayCountdown-4.jpg --alt {{ page.title }}  %}
-    {% picture 40/2020HolidayCountdown-5.jpg --alt {{ page.title }}  %}
-    {% picture 40/2020HolidayCountdown-6.jpg --alt {{ page.title }}  %}
-    {% picture 40/2020HolidayCountdown-7.jpg --alt {{ page.title }}  %}
+    {% picture 40/HolidayCountdown2020-1.jpg --alt {{ page.title }}  %}
+    {% picture 40/HolidayCountdown2020-2.jpg --alt {{ page.title }}  %}
+    {% picture 40/HolidayCountdown2020-3.jpg --alt {{ page.title }}  %}
+    {% picture 40/HolidayCountdown2020-4.jpg --alt {{ page.title }}  %}
+    {% picture 40/HolidayCountdown2020-5.jpg --alt {{ page.title }}  %}
+    {% picture 40/HolidayCountdown2020-6.jpg --alt {{ page.title }}  %}
+    {% picture 40/HolidayCountdown2020-7.jpg --alt {{ page.title }}  %}
 </div>
