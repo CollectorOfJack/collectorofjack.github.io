@@ -2,15 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://collectorofjack.com/contact</loc>
-<lastmod>2020-11-23T16:53:39+00:00</lastmod>
+<lastmod>2020-11-30T06:04:10+00:00</lastmod>
 </url>
 <url>
 <loc>https://collectorofjack.com/huntlist</loc>
-<lastmod>2020-11-23T16:53:39+00:00</lastmod>
+<lastmod>2020-11-30T06:04:10+00:00</lastmod>
 </url>
 <url>
 <loc>https://collectorofjack.com/thanks</loc>
-<lastmod>2020-11-23T16:53:39+00:00</lastmod>
+<lastmod>2020-11-30T06:04:10+00:00</lastmod>
 </url>
 <url>
 <loc>https://collectorofjack.com/JackDanielsCollector</loc>
@@ -169,12 +169,16 @@
 <lastmod>2020-11-23T10:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>https://collectorofjack.com/2020HolidayCountdownCalendar</loc>
+<lastmod>2020-11-29T20:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>https://collectorofjack.com/project/demo-project</loc>
 <lastmod>2018-06-30T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>https://collectorofjack.com/project/index</loc>
-<lastmod>2020-11-23T16:53:39+00:00</lastmod>
+<lastmod>2020-11-30T06:04:10+00:00</lastmod>
 </url>
 <url>
 <loc>https://collectorofjack.com/</loc>
