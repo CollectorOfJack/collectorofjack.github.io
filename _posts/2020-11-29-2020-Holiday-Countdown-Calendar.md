@@ -3,7 +3,7 @@ layout: post
 title: 2020 Holiday Countdown Calendar
 date: '2020-11-29T20:00:00+00:00'
 permalink: 2020HolidayCountdownCalendar
-featured_image: 40/2020HolidayCountdown-1.jpg
+featured_image: 40/2020HolidayCountDown-1.jpg
 description: 2020's Advent Calendar
 ---
 
