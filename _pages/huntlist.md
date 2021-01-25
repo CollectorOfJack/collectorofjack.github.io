@@ -25,6 +25,7 @@ I prefer trades in the Mid West. I am near St. Louis, and willing to drive/meet 
 * Jack Daniel's Alabama Bicentennial
 * Jack Daniel's Barrel Proof Rye Special Release (2020)
 * Tennessee Tasters' Jamaican Allspice
+* Jack Daniel's Silver Cornet Decanter
 
 ## Items for Trade
 * Gentleman Jack Limited Edition Time Piece Bottle
@@ -38,5 +39,6 @@ I prefer trades in the Mid West. I am near St. Louis, and willing to drive/meet 
 * Jack Daniel's Holiday Calendar 2020
 * 2019 Heritage Barrel
 * Eric Church Single Barrel 2020
+* Eric Church Single Barrel 2019
 * Eric Church Single Barrel 2019
 
