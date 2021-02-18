@@ -9,7 +9,7 @@ description: Metallican S&M2 Whiskey
 
 In getting ready for this post I realized this is the first time I’ve actually blogged about Blackened. I’ve had a few bottles over the past couple of years, and will document some of those later on, but for now, here’s batch 106.
 
-Blackened American Whiskey is a collaboration of whiskey between Metallica and the late Dave Pickerell. The premise is that the whiskey is finished in black brand casks and blasted with low frequency sound waves of Metallica’s music. Batch 106 is special because it is the S&M 2 release, marking the release of Metallica’s S&M Concert with the San Francisco Symphony. The whiskey was finished with the music from that event, originally recorded in September 2019.
+Blackened American Whiskey is a collaboration of whiskey between Metallica and the late Dave Pickerell. The premise is that the whiskey is finished in black brandy casks and blasted with low frequency sound waves of Metallica’s music. Batch 106 is special because it is the S&M 2 release, marking the release of Metallica’s S&M Concert with the San Francisco Symphony. The whiskey was finished with the music from that event, originally recorded in September 2019.
 
 The post covers the release of Batch 106 with a black box and artwork on the box. It didn’t come with the S&M 2 vinyl, but I had already ordered that separate from Metallica.
 
@@ -29,7 +29,7 @@ The sides of the box don’t have any dedicated text on them.
 
 > S&M2 Blackened  American Whiskey
 > Metallica and San Francisco Symphony’s S&M2 Live Playlist As Features In Batch 106
-> Each batch of Blackened uses Metallica’s music to literally shape the whiskey. Using the proprietary sonic-enhancement process Black NoiseTM, the low hertz frequencies pummel the black brand casks during the finishing, extracting more flavor form the wood.
+> Each batch of Blackened uses Metallica’s music to literally shape the whiskey. Using the proprietary sonic-enhancement process Black NoiseTM, the low hertz frequencies pummel the black brandy casks during the finishing, extracting more flavor form the wood.
 > Visit BlackenedWhiskey.com to learn how you can receive a limited edition S&M T-Shirt commemorating this very special batch.
 > BlackenedWhiskey.com @BlackenedAmericanWhiskey #WhiskeyRemastered
 > Please Enjoy Responsibly.
