@@ -40,7 +40,7 @@ The blackened bottle is a round 750ml glass bottle, this one doesn’t differ fr
 
 > Batch 106
 > Blackened
-> A blend of straight whiskeys finished in black brand casks
+> A blend of straight whiskeys finished in black brandy casks
 > Re-mastered by Dave Pickerell
 > 750 ML
 > 45% ALC/VOL
