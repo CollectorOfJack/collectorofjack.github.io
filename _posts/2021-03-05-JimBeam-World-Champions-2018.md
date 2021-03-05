@@ -1,78 +1,66 @@
 ---
 layout: post
-title: Blackened American Whiskey Batch 106 S&M2
-date: '2021-02-14T20:00:00+00:00'
-permalink: BlackenedBatch106
-featured_image: 44/BlackenedBatch106-1.jpg
-description: Metallica S&M2 Whiskey
+title: Jim Beam Red Sox 2018 World Champions Bottle (World Series)
+date: '2021-03-05T10:00:00+00:00'
+permalink: 2018RedSoxWorldChampion
+featured_image: 45/JimBeamWorldSeries-1.jpg
+description: 2018 Red Sox World Champions Jim Beam Bourbon
 ---
 
-In getting ready for this post I realized this is the first time I’ve actually blogged about Blackened. I’ve had a few bottles over the past couple of years, and will document some of those later on, but for now, here’s batch 106.
+In 2018 the Boston Red Sox won the MLB World Series. Jim Beam released a bottle celebrating this and I was fortunate enough to have a family member in massachusetts pick one up for me. I'm a HUGE Red Sox fan, always have been, even went to Game 4 of the 2004 World Series to see them win their first Championship in 86 years, so getting my hands on this bottle was exciting. For some reason I never got around to posting about it though, even though I took the pictures for it back in 2019!
 
-Blackened American Whiskey is a collaboration of whiskey between Metallica and the late Dave Pickerell. The premise is that the whiskey is finished in black brandy casks and blasted with low frequency sound waves of Metallica’s music. Batch 106 is special because it is the S&M 2 release, marking the release of Metallica’s S&M Concert with the San Francisco Symphony. The whiskey was finished with the music from that event, originally recorded in September 2019.
-
-The post covers the release of Batch 106 with a black box and artwork on the box. It didn’t come with the S&M 2 vinyl, but I had already ordered that separate from Metallica.
-
-#### The front of the box reads:
-
-> Limited Edition S&M2
-> Blackened
-> A Blend Of Straight Whiskeys Finished in Black Brandy Casks
-> Re-mastered by Dave Pickerell
-> 750 ML
-> 45% ALC/VOL
-> (90 Proof)
-
-The sides of the box don’t have any dedicated text on them.
-
-#### The back of the box reads:
-
-> S&M2 Blackened  American Whiskey
-> Metallica and San Francisco Symphony’s S&M2 Live Playlist As Features In Batch 106
-> Each batch of Blackened uses Metallica’s music to literally shape the whiskey. Using the proprietary sonic-enhancement process Black NoiseTM, the low hertz frequencies pummel the black brandy casks during the finishing, extracting more flavor form the wood.
-> Visit BlackenedWhiskey.com to learn how you can receive a limited edition S&M T-Shirt commemorating this very special batch.
-> BlackenedWhiskey.com @BlackenedAmericanWhiskey #WhiskeyRemastered
-> Please Enjoy Responsibly.
-
-The blackened bottle is a round 750ml glass bottle, this one doesn’t differ from previous batches except for the label on the neck designating Batch 106.
+I don't have a whole lot of info on release for this bottle, I'm guessing it was limited to New England, but I don't know how limited it was. A quick search online doesn't return many results.
 
 #### The front of the bottle reads:
 
-> Batch 106
-> Blackened
-> A blend of straight whiskeys finished in black brandy casks
-> Re-mastered by Dave Pickerell
-> 750 ML
-> 45% ALC/VOL
-> (90 Proof)
+> The World's No. 1 Bourbon Whiskey
+> Jim Beam
+> Limited Edition Championship Batch
+> 2018 World Champions
+> Barrels Matured During Game 5 / October 28th 2018
+> Kentucky Straight Bourbon Whiskey
+> Official Bourbon of The Boston Red Sox
 
-#### The back of the bottle reads:
+#### The neck label reads: 
 
-> Blacken The World
-> Blackened.
-> A bold collaboration of the finest, hand selected whiskeys. An unrivaled composition of craft & creativity. Born in cask, forged by sound. Bottled by Sweet Amber Distilling Co. Mineville, NY.
+> Championship Batch
+> Barrels Matured Oct. 28 2018
 
-There was apparently as Cask strength version of Batch 106 available at a single retailer in Kentucky and one in Florida, I don't have any additional info on that at this time.
+#### The right side of the bottle reads:
 
-#### S&M2 BATCH 106 Cask Strength
+> History
+> Barrels Matured On
+> Oct. 28 2018
+> The special commemorative bottling of Jim Beam Kentucky Straight Bourbon Whiskey was taken from barrels that matured on October 28, 2018. The day the Boston Red Sox Won The 2018 World Championship
 
-NOV / Kroger Wine & Spirits (Chris’ Pick), KY
-NOV / Luekens Wine & Spirits, FL
+#### The left side of the bottle reads:
 
-If you're looking for Blackened American Whiskey Batch 106, it can still be found online. Cask Cartel shows it at $149 as of February 2021.
+> Legacy
+> Nine World Championships
+> Seven Generations of the Beam Family
+> Jacob Beam 1760 - 1834
+> David Beam 1802 - 1854
+> David M. Beam 1833 - 1913
+> Colonel James B. Beam 1864 - 1947
+> T. Jeremiah Beam 1899 - 1977
+> Booker Noe 1929 - 2004
+> Fred Noe 1957 - Present
+> Master Distillers since 1795
+> Here's to every Beam who has added his own special chapter to our story. Kentucky in our hearts. Bourbon in our soul.
+
+Searching online I realy haven't found much on purchasing this bottle. There are a number of empties available on Ebay, but I haven't found a retailer who has one for sale to give a price as of time of posting. 
+
 
 #### Specs
 
-**Release:** 2020  
-**Proof:** 90
+**Release:** 2019  
+**Proof:** 80
 **Size:** 750ml  
-**Price:** $49
+**Price:** $23.99 
 
 <div class="gallery" data-columns="3">     
-    {% picture 44/BlackenedBatch106-1.jpg --alt {{ page.title }}  %}
-    {% picture 44/BlackenedBatch106-2.jpg --alt {{ page.title }}  %}
-    {% picture 44/BlackenedBatch106-3.jpg --alt {{ page.title }}  %}
-    {% picture 44/BlackenedBatch106-4.jpg --alt {{ page.title }}  %}
-    {% picture 44/BlackenedBatch106-5.jpg --alt {{ page.title }}  %}
-    {% picture 44/BlackenedBatch106-6.jpg --alt {{ page.title }}  %}
+    {% picture 45/JimBeamWorldSeries-1.jpg --alt {{ page.title }}  %}
+    {% picture 45/JimBeamWorldSeries-2.jpg --alt {{ page.title }}  %}
+    {% picture 45/JimBeamWorldSeries-3.jpg --alt {{ page.title }}  %}
+    {% picture 45/JimBeamWorldSeries-4.jpg --alt {{ page.title }}  %}
 </div>
