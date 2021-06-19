@@ -50,9 +50,38 @@ From the tasting we did get taken into the barrel house that was part of the cer
 
 After the tour I paid my visit to the White Rabbit again, this time picking up 3 more Tennessee Taster's bottles. Two of the "Twin" and one of the Allspice, rounding out 3 of each of those. One for drinking, one for collecting and one for trading in the future. I also paid to have my rocks glass that I received from the tour engraved with the date and type of tour, to put on display in the collection.
 
-Next up for me was a visit to the Squire house, the old Motlow house on the property there at the distillery. The Tennessee Squire Association is in its 65th year, having been founded in 1956. I became a squire last year like a week after my dad and I visited the distillery, so this was my first trip as a squire. I got to meet and shake hands with Randall Fanning, and sit and chat with him for a while there in the house. 
+Next up for me was a visit to the Squire house, the old Motlow house on the property there at the distillery. The Tennessee Squire Association is in its 65th year, having been founded in 1956. I became a squire last year like a week after my dad and I visited the distillery, so this was my first trip as a squire. I got to meet and shake hands with Randall Fanning, and sit and chat with him for a while there in the house. I picked up some Squire specific merchandise and got a copy of Chasing Whiskey signed by Randall and then decided to hit the road back home to St. Louis.
+
+On the way home I made a quick stop by the Nearest Green Distillery to see if I could talk my way into anything there, they had/have their grand opening today (6/19). The place was packed with cars, and workers everywhere, so I pulled into the lot, to a quick photo (below) and then got back on the road.
+
+I did make one last liquor store stop at Liquor Planet in Murfreesboro. I had stopped there a couple of times previously, one of the St Louis Bourbon Society Admins has posted a photo from there the prior day with a particular Jack Daniel's Single barrel that I wanted, so I stopped in to pick it up. It was just a store pick, but it has a picture of Randall Fanning and Goose, along with one other person (Will perhaps?) applied via a decal, I wanted to add that to my collection so I picked one up. 
+
+The rest of the trip was uneventful, which is always nice. Until the next trip, this one will hold me over.
 
 <div class="gallery" data-columns="3">     
     {% picture 47/Trip2021-1.jpg --alt 'The Motlow House, Lynchburg, TN'  %}
-    
+    {% picture 47/Trip2021-2.jpg --alt "Visitor's center parking"  %}
+    {% picture 47/Trip2021-3.jpg --alt "Jack Daniel's shuttle bus"  %}
+    {% picture 47/Trip2021-4.jpg --alt "Ducks in Lynchburg, TN"  %}
+    {% picture 47/Trip2021-5.jpg --alt "Visitor's Center Traffic Circle"  %}
+    {% picture 47/Trip2021-6.jpg --alt "Jack Daniel's National Register of Historic Places Marker"  %}
+    {% picture 47/Trip2021-7.jpg --alt "Jack Daniel's Visitor Center plaque"  %}
+    {% picture 47/Trip2021-8.jpg --alt "Visitor's center creek"  %}
+    {% picture 47/Trip2021-9.jpg --alt "Bridge to Town Square, looking back at the visitors center"  %}
+    {% picture 47/Trip2021-10.jpg --alt "Jack Daniel's Drake duck"  %}
+    {% picture 47/Trip2021-11.jpg --alt "Jack Daniel's Charcoal Fire production"  %}
+    {% picture 47/Trip2021-12.jpg --alt "Jack Daniel's Rickyard"  %}
+    {% picture 47/Trip2021-13.jpg --alt "Whiskey for destruction jug"  %}
+    {% picture 47/Trip2021-14.jpg --alt "Jack Daniel's Water Tower"  %}
+    {% picture 47/Trip2021-15 .jpg --alt "Jack Daniel's Reserved Tasters Parking"  %}
+    {% picture 47/Trip2021-16.jpg --alt "Rock wall"  %}
+    {% picture 47/Trip2021-17.jpg --alt "Warehouse"  %}
+    {% picture 47/Trip2021-18.jpg --alt "Jack Daniel's Bethel House sign"  %}
+    {% picture 47/Trip2021-19.jpg --alt "Tasting in the Bethel House"  %}
+    {% picture 47/Trip2021-20.jpg --alt "Tasting in the Bethel House"  %}
+    {% picture 47/Trip2021-21.jpg --alt "Tasting in the Bethel House"  %}
+    {% picture 47/Trip2021-22.jpg --alt "Tasting in the Bethel House"  %}
+    {% picture 47/Trip2021-23.jpg --alt "Jack Daniel's Barrel Truck, International"  %}
+    {% picture 47/Trip2021-24.jpg --alt "White Rabbit Bottle Shop"  %}
+    {% picture 47/Trip2021-25.jpg --alt "Nearest Green Distillery"  %}
 </div>
