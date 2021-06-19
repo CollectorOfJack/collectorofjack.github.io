@@ -73,7 +73,7 @@ The rest of the trip was uneventful, which is always nice. Until the next trip, 
     {% picture 47/Trip2021-12.jpg --alt "Jack Daniel's Rickyard"  %}
     {% picture 47/Trip2021-13.jpg --alt "Whiskey for destruction jug"  %}
     {% picture 47/Trip2021-14.jpg --alt "Jack Daniel's Water Tower"  %}
-    {% picture 47/Trip2021-15 .jpg --alt "Jack Daniel's Reserved Tasters Parking"  %}
+    {% picture 47/Trip2021-15.jpg --alt "Jack Daniel's Reserved Tasters Parking"  %}
     {% picture 47/Trip2021-16.jpg --alt "Rock wall"  %}
     {% picture 47/Trip2021-17.jpg --alt "Warehouse"  %}
     {% picture 47/Trip2021-18.jpg --alt "Jack Daniel's Bethel House sign"  %}
