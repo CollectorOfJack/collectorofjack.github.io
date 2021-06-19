@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jack Daniel's Visit June 2021
-date: '2021-06-19T16:20:00+00:00'
+date: '2021-06-19T19:20:00+00:00'
 permalink: JackDanielsDistilleryVisit2021
 featured_image: 47/Trip20216-16-2021-4.jpg
 description: My trip to Jack Daniel's Distillery in June 2021
@@ -19,7 +19,7 @@ Debbie came through, we met at a gas station and exchanged prizes had a nice cha
 
 From there I headed south towards Lynchburg, I had grand visions of trying to be down there around Sunset to get some photos, unfortunately those visions weren't quite met though I did get some decent shots you can see below. I got down there a little later than I had hoped, and being down in the valley/hollow sunset is kinda hard to grasp due to all the shade from the hills and trees. I did spend quite a bit of time driving around the hills of Lynchburg getting to see some areas I've never seen before. I came across one field of vegetables that had a large group of menonite women/girls sitting in a circle. It really would have made the coolest picture, but I didn't want to be the creepy guy taking photos of them in a field so I just kept driving by.
 
-As I was passing through a small town of Petersburg, TN I stopped to take a photo or two of the town square. I talked to a local artist who was out walking his 8 month old shepard/lab mix Skippy. 
+As I was passing through a small town of Petersburg, TN I stopped to take a photo or two of the town square. I talked to a local artist who was out walking his 8 month old shepard/lab mix Skippy. We talked for a while, he does patriotic veteran based art that is used I believe in VA hospitals to cheer up the vets. He apparently he only moved there a few months ago, but he was very approving of the town. A car pulled up and said hello to Skippy, small town, everyone knows everyone, including the dogs. They asked me if I was going to move there. Pushy people these Petersburgians.
 
 <div class="gallery" data-columns="3">     
     {% picture 47/Trip20216-16-2021-1.jpg --alt 'Barrel Houses from up on a hill'  %}
@@ -31,7 +31,26 @@ As I was passing through a small town of Petersburg, TN I stopped to take a phot
     {% picture 47/Trip20216-16-2021-6.jpg --alt 'Petersburg, TN Traffic Signal ' %}
 </div>
 
+Wednesday morning I once again had visions of getting up super early and trying to see if I could find any cool places for sunrise shots around Lynchburg. Before finally turning out the lights near midnight I decided that simply wasn't going to happen and I set my alarm for a more realistic 630am. I got up and hit the road, mostly going against traffic down to Lynchburg and arrived around 815am. The visitor's center didn't open until close to 9am so I wandered around the front with my camera looking for some more shots.
 
+The doors opened shortly before 9am and everyone started getting checked in for their tour tickets. I made a quick pass through the White Rabbit Bottle Shop to see what they had, so I could make sure I was "ready" after the tour to pickup what I needed.
+
+The tour had 17 folks on it, we took a shuttle up to the "starting" point and were informed that some of the tour had been modified due to Covid, as well as due to an event that was occuring later that day. We would not be going into the barrel house and doing our tasting there as normal, we would be doing our tasting in Bethel Church instead, an apparently rare event.
+
+The tour was great as usual, though we didn't get to go into the distillation area and also didn't get to go through the bottling area :(. One day I hope to get to walk around the distillery with an employee who can get me into areas tours don't normally go. We started the tour near the rickyard where they make the charcoal used for mellowing the Tennessee Whiskey. They were making charcoal at the time, which is always a cool experience to see. 
+
+{% picture 47/Trip2021-11.jpg --alt 'Fire in the Jack Daniel's Rickyard' %}
+
+For the finish of the Angel's Share tour you are supposed to get a taste of Gold 27, Sinatra Select, Single Barrel Select, Single Barrel Barrel Proof and Single Barrel Rye. We were informed that they were "out" of the Gold 27, so they were giving us Gentleman Jack instead. 
+
+{% picture 47/Trip2021-21.jpg --alt "Angel's Share Tasting" %}
+{% picture 47/Trip2021-22.jpg --alt "Angel's Share Tasting" %}
+
+From the tasting we did get taken into the barrel house that was part of the ceremony later in the day, but only into the barrel storage area, not into the tasting area for a quick introduction to some of the barrels there. Our tour guide told us they were all "green" barrels, everyone assumed that meant Green Label, but later in the day that barrel house was renamed to be The George Green Barrel House, so I wonder if there as more to that.
+
+After the tour I paid my visit to the White Rabbit again, this time picking up 3 more Tennessee Taster's bottles. Two of the "Twin" and one of the Allspice, rounding out 3 of each of those. One for drinking, one for collecting and one for trading in the future. I also paid to have my rocks glass that I received from the tour engraved with the date and type of tour, to put on display in the collection.
+
+Next up for me was a visit to the Squire house, the old Motlow house on the property there at the distillery. The Tennessee Squire Association is in its 65th year, having been founded in 1956. I became a squire last year like a week after my dad and I visited the distillery, so this was my first trip as a squire. I got to meet and shake hands with Randall Fanning, and sit and chat with him for a while there in the house. 
 
 <div class="gallery" data-columns="3">     
     {% picture 47/Trip2021-1.jpg --alt 'The Motlow House, Lynchburg, TN'  %}
