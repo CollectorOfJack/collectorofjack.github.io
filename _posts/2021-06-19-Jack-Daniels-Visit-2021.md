@@ -34,6 +34,6 @@ As I was passing through a small town of Petersburg, TN I stopped to take a phot
 
 
 <div class="gallery" data-columns="3">     
-    {% picture 47/Trip-1.jpg --alt 'The Motlow House, Lynchburg, TN'  %}
+    {% picture 47/Trip2021-1.jpg --alt 'The Motlow House, Lynchburg, TN'  %}
     
 </div>
