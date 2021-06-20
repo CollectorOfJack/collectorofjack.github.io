@@ -22,13 +22,13 @@ From there I headed south towards Lynchburg, I had grand visions of trying to be
 As I was passing through a small town of Petersburg, TN I stopped to take a photo or two of the town square. I talked to a local artist who was out walking his 8 month old shepard/lab mix Skippy. We talked for a while, he does patriotic veteran based art that is used I believe in VA hospitals to cheer up the vets. He apparently he only moved there a few months ago, but he was very approving of the town. A car pulled up and said hello to Skippy, small town, everyone knows everyone, including the dogs. They asked me if I was going to move there. Pushy people these Petersburgians.
 
 <div class="gallery" data-columns="3">     
-    {% picture 47/Trip20216-16-2021-1.jpg --alt 'Barrel Houses from up on a hill'  %}
-    {% picture 47/Trip20216-16-2021-2.jpg --alt 'Old house in the hills around Lynchburg'  %}
-    {% picture 47/Trip20216-16-2021-3.jpg --alt 'The Motlow House, Lynchburg, TN'  %}
-    {% picture 47/Trip20216-16-2021-4.jpg --alt 'The Jack Daniel's Visitor Center'  %}
-    {% picture 47/Trip20216-16-2021-5.jpg --alt 'Sunset in the hills'  %}
-    {% picture 47/Trip20216-16-2021-6.jpg --alt 'Cornfield outside of Lynchburg, TN ' %}
-    {% picture 47/Trip20216-16-2021-6.jpg --alt 'Petersburg, TN Traffic Signal ' %}
+    {% picture 47/Trip20216-16-2021-1.jpg --alt Barrel Houses from up on a hill %}
+    {% picture 47/Trip20216-16-2021-2.jpg --alt Old house in the hills around Lynchburg  %}
+    {% picture 47/Trip20216-16-2021-3.jpg --alt The Motlow House, Lynchburg, TN  %}
+    {% picture 47/Trip20216-16-2021-4.jpg --alt The Jack Daniel's Visitor Center  %}
+    {% picture 47/Trip20216-16-2021-5.jpg --alt Sunset in the hills  %}
+    {% picture 47/Trip20216-16-2021-6.jpg --alt Cornfield outside of Lynchburg, TN %}
+    {% picture 47/Trip20216-16-2021-6.jpg --alt Petersburg, TN Traffic Signal %}
 </div>
 
 Wednesday morning I once again had visions of getting up super early and trying to see if I could find any cool places for sunrise shots around Lynchburg. Before finally turning out the lights near midnight I decided that simply wasn't going to happen and I set my alarm for a more realistic 630am. I got up and hit the road, mostly going against traffic down to Lynchburg and arrived around 815am. The visitor's center didn't open until close to 9am so I wandered around the front with my camera looking for some more shots.
@@ -39,12 +39,12 @@ The tour had 17 folks on it, we took a shuttle up to the "starting" point and we
 
 The tour was great as usual, though we didn't get to go into the distillation area and also didn't get to go through the bottling area :(. One day I hope to get to walk around the distillery with an employee who can get me into areas tours don't normally go. We started the tour near the rickyard where they make the charcoal used for mellowing the Tennessee Whiskey. They were making charcoal at the time, which is always a cool experience to see. 
 
-{% picture 47/Trip2021-11.jpg --alt 'Fire in the Jack Daniel's Rickyard' %}
+{% picture 47/Trip2021-11.jpg --alt Fire in the Jack Daniel's Rickyard' %}
 
 For the finish of the Angel's Share tour you are supposed to get a taste of Gold 27, Sinatra Select, Single Barrel Select, Single Barrel Barrel Proof and Single Barrel Rye. We were informed that they were "out" of the Gold 27, so they were giving us Gentleman Jack instead. 
 
-{% picture 47/Trip2021-21.jpg --alt "Angel's Share Tasting" %}
-{% picture 47/Trip2021-22.jpg --alt "Angel's Share Tasting" %}
+{% picture 47/Trip2021-21.jpg --alt Angel's Share Tasting %}
+{% picture 47/Trip2021-22.jpg --alt Angel's Share Tasting %}
 
 From the tasting we did get taken into the barrel house that was part of the ceremony later in the day, but only into the barrel storage area, not into the tasting area for a quick introduction to some of the barrels there. Our tour guide told us they were all "green" barrels, everyone assumed that meant Green Label, but later in the day that barrel house was renamed to be The George Green Barrel House, so I wonder if there as more to that.
 
@@ -59,29 +59,29 @@ I did make one last liquor store stop at Liquor Planet in Murfreesboro. I had st
 The rest of the trip was uneventful, which is always nice. Until the next trip, this one will hold me over.
 
 <div class="gallery" data-columns="3">     
-    {% picture 47/Trip2021-1.jpg --alt 'The Motlow House, Lynchburg, TN'  %}
-    {% picture 47/Trip2021-2.jpg --alt "Visitor's center parking"  %}
-    {% picture 47/Trip2021-3.jpg --alt "Jack Daniel's shuttle bus"  %}
-    {% picture 47/Trip2021-4.jpg --alt "Ducks in Lynchburg, TN"  %}
-    {% picture 47/Trip2021-5.jpg --alt "Visitor's Center Traffic Circle"  %}
-    {% picture 47/Trip2021-6.jpg --alt "Jack Daniel's National Register of Historic Places Marker"  %}
-    {% picture 47/Trip2021-7.jpg --alt "Jack Daniel's Visitor Center plaque"  %}
-    {% picture 47/Trip2021-8.jpg --alt "Visitor's center creek"  %}
-    {% picture 47/Trip2021-9.jpg --alt "Bridge to Town Square, looking back at the visitors center"  %}
-    {% picture 47/Trip2021-10.jpg --alt "Jack Daniel's Drake duck"  %}
-    {% picture 47/Trip2021-11.jpg --alt "Jack Daniel's Charcoal Fire production"  %}
-    {% picture 47/Trip2021-12.jpg --alt "Jack Daniel's Rickyard"  %}
-    {% picture 47/Trip2021-13.jpg --alt "Whiskey for destruction jug"  %}
-    {% picture 47/Trip2021-14.jpg --alt "Jack Daniel's Water Tower"  %}
-    {% picture 47/Trip2021-15.jpg --alt "Jack Daniel's Reserved Tasters Parking"  %}
-    {% picture 47/Trip2021-16.jpg --alt "Rock wall"  %}
-    {% picture 47/Trip2021-17.jpg --alt "Warehouse"  %}
-    {% picture 47/Trip2021-18.jpg --alt "Jack Daniel's Bethel House sign"  %}
-    {% picture 47/Trip2021-19.jpg --alt "Tasting in the Bethel House"  %}
-    {% picture 47/Trip2021-20.jpg --alt "Tasting in the Bethel House"  %}
-    {% picture 47/Trip2021-21.jpg --alt "Tasting in the Bethel House"  %}
-    {% picture 47/Trip2021-22.jpg --alt "Tasting in the Bethel House"  %}
-    {% picture 47/Trip2021-23.jpg --alt "Jack Daniel's Barrel Truck, International"  %}
-    {% picture 47/Trip2021-24.jpg --alt "White Rabbit Bottle Shop"  %}
-    {% picture 47/Trip2021-25.jpg --alt "Nearest Green Distillery"  %}
+    {% picture 47/Trip2021-1.jpg --alt The Motlow House, Lynchburg, TN  %}
+    {% picture 47/Trip2021-2.jpg --alt Visitor's center parking  %}
+    {% picture 47/Trip2021-3.jpg --alt Jack Daniel's shuttle bus  %}
+    {% picture 47/Trip2021-4.jpg --alt Ducks in Lynchburg, TN  %}
+    {% picture 47/Trip2021-5.jpg --alt Visitor's Center Traffic Circle  %}
+    {% picture 47/Trip2021-6.jpg --alt Jack Daniel's National Register of Historic Places Marker  %}
+    {% picture 47/Trip2021-7.jpg --alt Jack Daniel's Visitor Center plaque  %}
+    {% picture 47/Trip2021-8.jpg --alt Visitor's center creek  %}
+    {% picture 47/Trip2021-9.jpg --alt Bridge to Town Square, looking back at the visitors center  %}
+    {% picture 47/Trip2021-10.jpg --alt Jack Daniel's Drake duck  %}
+    {% picture 47/Trip2021-11.jpg --alt Jack Daniel's Charcoal Fire production  %}
+    {% picture 47/Trip2021-12.jpg --alt Jack Daniel's Rickyard  %}
+    {% picture 47/Trip2021-13.jpg --alt Whiskey for destruction jug  %}
+    {% picture 47/Trip2021-14.jpg --alt Jack Daniel's Water Tower  %}
+    {% picture 47/Trip2021-15.jpg --alt Jack Daniel's Reserved Tasters Parking  %}
+    {% picture 47/Trip2021-16.jpg --alt Rock wall  %}
+    {% picture 47/Trip2021-17.jpg --alt Warehouse  %}
+    {% picture 47/Trip2021-18.jpg --alt Jack Daniel's Bethel House sign  %}
+    {% picture 47/Trip2021-19.jpg --alt Tasting in the Bethel House  %}
+    {% picture 47/Trip2021-20.jpg --alt Tasting in the Bethel House  %}
+    {% picture 47/Trip2021-21.jpg --alt Tasting in the Bethel House  %}
+    {% picture 47/Trip2021-22.jpg --alt Tasting in the Bethel House  %}
+    {% picture 47/Trip2021-23.jpg --alt Jack Daniel's Barrel Truck, International  %}
+    {% picture 47/Trip2021-24.jpg --alt White Rabbit Bottle Shop  %}
+    {% picture 47/Trip2021-25.jpg --alt Nearest Green Distillery  %}
 </div>
