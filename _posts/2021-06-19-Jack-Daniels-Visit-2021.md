@@ -28,7 +28,7 @@ As I was passing through a small town of Petersburg, TN I stopped to take a phot
     {% picture 47/Trip20216-16-2021-4.jpg --alt The Jack Daniel's Visitor Center  %}
     {% picture 47/Trip20216-16-2021-5.jpg --alt Sunset in the hills  %}
     {% picture 47/Trip20216-16-2021-6.jpg --alt Cornfield outside of Lynchburg, TN %}
-    {% picture 47/Trip20216-16-2021-6.jpg --alt Petersburg, TN Traffic Signal %}
+    {% picture 47/Trip20216-16-2021-7.jpg --alt Petersburg, TN Traffic Signal %}
 </div>
 
 Wednesday morning I once again had visions of getting up super early and trying to see if I could find any cool places for sunrise shots around Lynchburg. Before finally turning out the lights near midnight I decided that simply wasn't going to happen and I set my alarm for a more realistic 630am. I got up and hit the road, mostly going against traffic down to Lynchburg and arrived around 815am. The visitor's center didn't open until close to 9am so I wandered around the front with my camera looking for some more shots.
