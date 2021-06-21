@@ -5,6 +5,106 @@ date: '2021-06-19T16:20:00+00:00'
 permalink: JackDanielsDistilleryVisit2021
 featured_image: 47/Trip20216-16-2021-4.jpg
 description: My trip to Jack Daniel's Distillery in June 2021
+gallery1: 
+  - image_path: 47/Trip20216-16-2021-1.jpg 
+    image-caption: Barrel Houses from up on a hill
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip20216-16-2021-2.jpg 
+    image-caption: Old house in the hills around Lynchburg
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip20216-16-2021-3.jpg 
+    image-caption: The Motlow House, Lynchburg, TN
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip20216-16-2021-4.jpg 
+    image-caption: The Jack Daniel's Visitor Center 
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip20216-16-2021-5.jpg 
+    image-caption: Sunset in the hills
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip20216-16-2021-6.jpg 
+    image-caption: Cornfield outside of Lynchburg, TN
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip20216-16-2021-7.jpg 
+    image-caption: Petersburg, TN Traffic Signal
+    image-copyright: © CollectorOfJack.com
+
+gallery2: 
+  - image_path: 47/Trip2021-1.jpg 
+    image-caption: The Motlow House, Lynchburg, TN
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-2.jpg 
+    image-caption: Visitor's center parking
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-3.jpg 
+    image-caption: Jack Daniel's shuttle bus
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-4.jpg 
+    image-caption: Ducks in Lynchburg, TN 
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-5.jpg 
+    image-caption: Visitor's Center Traffic Circle
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-6.jpg 
+    image-caption: Jack Daniel's National Register of Historic Places Marker  
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-7.jpg 
+    image-caption: Jack Daniel's Visitor Center plaque
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-8.jpg 
+    image-caption: Visitor's center creek
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-9.jpg 
+    image-caption: Bridge to Town Square, looking back at the visitors center
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-10.jpg 
+    image-caption: Jack Daniel's Drake duck 
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-11.jpg 
+    image-caption: Jack Daniel's Charcoal Fire production
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-12.jpg 
+    image-caption: Jack Daniel's Rickyard
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-13.jpg 
+    image-caption: Whiskey for destruction jug
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-14.jpg 
+    image-caption: Jack Daniel's Water Tower
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-15.jpg 
+    image-caption: Jack Daniel's Reserved Tasters Parking
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-16.jpg 
+    image-caption: Rock wall  
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-17.jpg 
+    image-caption: Warehouse
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-18.jpg 
+    image-caption: Jack Daniel's Bethel House sign
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-19.jpg 
+    image-caption: Tasting in the Bethel House
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-20.jpg 
+    image-caption: Tasting in the Bethel House
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-21.jpg 
+    image-caption: Tasting in the Bethel House
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-22.jpg 
+    image-caption: Tasting in the Bethel House
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-23.jpg 
+    image-caption: Jack Daniel's Barrel Truck, International 
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-24.jpg 
+    image-caption: White Rabbit Bottle Shop 
+    image-copyright: © CollectorOfJack.com
+  - image_path: 47/Trip2021-25.jpg 
+    image-caption: Nearest Green Distillery
+    image-copyright: © CollectorOfJack.com
+
 ---
 
 This week I got out on my first work trip, since probably August 2019. I started a new job last year, about a week after the world shut down for the pandemic, so work trips have been on hold for quite some time, that and the last employer stopped my travelling, so I hadn't been on the road for work in quite some time. It was great to get out and meet some fellow employees and customers face to face.
@@ -21,15 +121,7 @@ From there I headed south towards Lynchburg, I had grand visions of trying to be
 
 As I was passing through a small town of Petersburg, TN I stopped to take a photo or two of the town square. I talked to a local artist who was out walking his 8 month old shepard/lab mix Skippy. We talked for a while, he does patriotic veteran based art that is used I believe in VA hospitals to cheer up the vets. He apparently he only moved there a few months ago, but he was very approving of the town. A car pulled up and said hello to Skippy, small town, everyone knows everyone, including the dogs. They asked me if I was going to move there. Pushy people these Petersburgians.
 
-<div class="gallery" data-columns="3">     
-    {% picture 47/Trip20216-16-2021-1.jpg --alt Barrel Houses from up on a hill %}
-    {% picture 47/Trip20216-16-2021-2.jpg --alt Old house in the hills around Lynchburg  %}
-    {% picture 47/Trip20216-16-2021-3.jpg --alt The Motlow House, Lynchburg, TN  %}
-    {% picture 47/Trip20216-16-2021-4.jpg --alt The Jack Daniel's Visitor Center  %}
-    {% picture 47/Trip20216-16-2021-5.jpg --alt Sunset in the hills  %}
-    {% picture 47/Trip20216-16-2021-6.jpg --alt Cornfield outside of Lynchburg, TN %}
-    {% picture 47/Trip20216-16-2021-6.jpg --alt Petersburg, TN Traffic Signal %}
-</div>
+{% include subgallery.html id="gallery1" %}
 
 Wednesday morning I once again had visions of getting up super early and trying to see if I could find any cool places for sunrise shots around Lynchburg. Before finally turning out the lights near midnight I decided that simply wasn't going to happen and I set my alarm for a more realistic 630am. I got up and hit the road, mostly going against traffic down to Lynchburg and arrived around 815am. The visitor's center didn't open until close to 9am so I wandered around the front with my camera looking for some more shots.
 
@@ -58,30 +150,4 @@ I did make one last liquor store stop at Liquor Planet in Murfreesboro. I had st
 
 The rest of the trip was uneventful, which is always nice. Until the next trip, this one will hold me over.
 
-<div class="gallery" data-columns="3">     
-    {% picture 47/Trip2021-1.jpg --alt The Motlow House, Lynchburg, TN  %}
-    {% picture 47/Trip2021-2.jpg --alt Visitor's center parking  %}
-    {% picture 47/Trip2021-3.jpg --alt Jack Daniel's shuttle bus  %}
-    {% picture 47/Trip2021-4.jpg --alt Ducks in Lynchburg, TN  %}
-    {% picture 47/Trip2021-5.jpg --alt Visitor's Center Traffic Circle  %}
-    {% picture 47/Trip2021-6.jpg --alt Jack Daniel's National Register of Historic Places Marker  %}
-    {% picture 47/Trip2021-7.jpg --alt Jack Daniel's Visitor Center plaque  %}
-    {% picture 47/Trip2021-8.jpg --alt Visitor's center creek  %}
-    {% picture 47/Trip2021-9.jpg --alt Bridge to Town Square, looking back at the visitors center  %}
-    {% picture 47/Trip2021-10.jpg --alt Jack Daniel's Drake duck  %}
-    {% picture 47/Trip2021-11.jpg --alt Jack Daniel's Charcoal Fire production  %}
-    {% picture 47/Trip2021-12.jpg --alt Jack Daniel's Rickyard  %}
-    {% picture 47/Trip2021-13.jpg --alt Whiskey for destruction jug  %}
-    {% picture 47/Trip2021-14.jpg --alt Jack Daniel's Water Tower  %}
-    {% picture 47/Trip2021-15.jpg --alt Jack Daniel's Reserved Tasters Parking  %}
-    {% picture 47/Trip2021-16.jpg --alt Rock wall  %}
-    {% picture 47/Trip2021-17.jpg --alt Warehouse  %}
-    {% picture 47/Trip2021-18.jpg --alt Jack Daniel's Bethel House sign  %}
-    {% picture 47/Trip2021-19.jpg --alt Tasting in the Bethel House  %}
-    {% picture 47/Trip2021-20.jpg --alt Tasting in the Bethel House  %}
-    {% picture 47/Trip2021-21.jpg --alt Tasting in the Bethel House  %}
-    {% picture 47/Trip2021-22.jpg --alt Tasting in the Bethel House  %}
-    {% picture 47/Trip2021-23.jpg --alt Jack Daniel's Barrel Truck, International  %}
-    {% picture 47/Trip2021-24.jpg --alt White Rabbit Bottle Shop  %}
-    {% picture 47/Trip2021-25.jpg --alt Nearest Green Distillery  %}
-</div>
+{% include subgallery.html id="gallery2" %}
