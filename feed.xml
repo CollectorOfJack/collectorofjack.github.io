@@ -5,9 +5,113 @@
     <description>A blog for collecting Jack Daniel's bottles and memorabilia</description>
     <link>https://collectorofjack.com/</link>
     <atom:link href="https://collectorofjack.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 24 Jun 2021 21:08:42 +0000</pubDate>
-    <lastBuildDate>Thu, 24 Jun 2021 21:08:42 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Jun 2021 23:24:38 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Jun 2021 23:24:38 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;This post continues our series of blog posts about Jack Daniel’s Tennessee Rye. As the Rye has matured, we’ve gone from Unaged to Rested and now on to Single Barrel. In 2016 Jack Daniel’s released the Single Barrel Rye, a 94 proof Tennessee Rye Whiskey. Depending on where you acquired it, it may or may not have come with a box. The front of the box is adorned with:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Jack Daniel’s &lt;br&gt;Uniquely Crafted / Handmade Barrels&lt;br&gt;Single Barrel Rye&lt;br&gt;Tennessee Rye Whiskey”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt; The side of the box reads:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Single Barrel Rye&lt;br&gt;Hand Selected&lt;br&gt;Jack Daniel Distillery&lt;br&gt;Lynchburg, Tenn.”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Towards the top of the rear box, the same graphic that adorns the front is found, below that you find:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Single Barrel Tennessee Rye Whiskey draws its wonderful flavor from a unique 70% rye grain bill, matured to perfection in our handmade oak barrels, positioned in the upper reached of our barrelhouses. Bottled at 94$, this is a big bold rye that does not overpower. Complex flavors of ripe fruit mingle with light toasted oak notes, allowing the rye grain to shine through, creating a taste rich with spice and a pleasant lingering finish. Enjoy this Single Barrel Rye neat, on the rocks, or in classic rye cocktails.”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Inside the box you will find a bottled in the current Single Barrel form. The label reads the same as the front of the box (listed above) with the additional text:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“47% ALC/VOL 750ML&lt;br&gt;LYNCHBURG TENN.&lt;br&gt;MASTER DISTILLED”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Our bottle was bottled 2/25/2016 from barrel no. 16-1397, Rick No. L-4. &lt;/p&gt;
+&lt;p&gt;Single Barrel Rye can be found on store shelves for $50 (1/13/2019).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Release&lt;/strong&gt;: 2016&lt;br&gt;&lt;strong&gt;Proof&lt;/strong&gt;: 94&lt;br&gt;&lt;strong&gt;Size&lt;/strong&gt;: 750ml&lt;br&gt;&lt;strong&gt;Price:&lt;/strong&gt; $49.95&lt;/p&gt;
+
+
+
+&lt;div class=&quot;gallery masonry-gallery&quot; id=&quot;JackDanielsTennesseeRye&quot;&gt;
+  
+&lt;/div&gt;
+
+&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
+	
+//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
+	$('.popup').on('mfpChange', function(e /*, params */) {
+	  //console.log('Popup changed',  $.magnificPopup.instance.index);
+	  //console.log('Popup instance',  $.magnificPopup.instance);
+	  //load the URL with index as a &amp;param
+	  originalUrl = window.location.href.split('?')[0];
+	  //load the image if the page loads and a param is passed 
+	  
+
+	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
+	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
+	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	});
+
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( &quot;ready!&quot; );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
+		if(galleryNameLoc&gt;0)
+		{
+			//console.log('Found Index',  index);
+			var gindex = window.location.href.substring(galleryNameLoc+12).split(&quot;&amp;&quot;)[0];
+			//console.log('G Index:', gindex);
+			//console.log('Item:',$('#' + gindex));
+			var galleryObj = $('#' + gindex);
+			var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+
+			if(loc&gt;0)
+			{
+				//console.log('Found It',  window.location.href.substring(loc));
+				var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
+				//console.log('Found Index',  index);
+				//lookup the image on the page if there are multiple galleries
+				
+				$('#' + gindex).find('.popup')[index].click();
+			}
+					
+		}
+		//var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+		//if(loc&lt;0)
+		//{
+		//	//console.log('Found It',  window.location.href.substring(loc));
+		//	var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
+		//	//console.log('Found Index',  index);
+		//	//lookup the image on the page if there are multiple galleries
+			
+		//	document.getElementsByClassName('popup')[index].click();
+		//}
+		
+	});
+&lt;/script&gt;
+</description>
+        <pubDate>Thu, 24 Jun 2021 23:24:38 +0000</pubDate>
+        <link>https://collectorofjack.com/2019-06-18-JackDanielsSingleBarrelRye/</link>
+        <guid isPermaLink="true">https://collectorofjack.com/2019-06-18-JackDanielsSingleBarrelRye/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Jack Daniel's Visit June 2021</title>
@@ -2853,219 +2957,6 @@ In Lynchburg, Tennessee, the holidays are about traditions old and new. While ol
         <pubDate>Mon, 23 Nov 2020 10:00:00 +0000</pubDate>
         <link>https://collectorofjack.com/BarrelProofRyeSpecialRelease</link>
         <guid isPermaLink="true">https://collectorofjack.com/BarrelProofRyeSpecialRelease</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Jack Daniel's Fire and 2 Shotglass Gift Set</title>
-        <description>&lt;p&gt;One of the things that I’ve thought about, and am not 100% on yet, is collecting the “Gift Sets” that you can find from Jack Daniel’s. They are typically a bottle of Old No. 7, or Fire, or Honey and come with some form of glassware. There seems to be a new set every season, if not more frequent than that. Do I need/want to have boxes of shot glasses and rocks glasses around?&lt;/p&gt;
-
-&lt;p&gt;I haven’t quite decided on the answer to that question yet, but I do have a few that I need to document, so here goes one.&lt;/p&gt;
-
-&lt;p&gt;Here is a Jack Daniel’s Tennessee Fire Gift Set with 2 Shot Glasses.&lt;/p&gt;
-
-&lt;p&gt;The shot glasses are black with red graphics.&lt;/p&gt;
-
-&lt;p&gt;The side of the box read:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It takes a fire to make Jack, and Jack to make fire
-Best served scorching cold&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The back of the box reads:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Our Jack Daniel’s Tennessee Fire blends red-hot cinnamon liqueur with the smooth character of Jack Daniel’s Old No. 7 for a classic spirit with spicy finish.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Just pour Jack Daniel’s Tennessee Fire fresh from the freezer into a shot glass.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Do’t get burned. Drink responsibly.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The bottle is a previous generation Tennessee Fire Bottle, reading Original Recipe on the front, instead of the current (2020) Cinnamon Spice label.&lt;/p&gt;
-
-&lt;h4 id=&quot;specs&quot;&gt;Specs&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; 2019? 
-&lt;strong&gt;Proof:&lt;/strong&gt; 70&lt;br /&gt;
-&lt;strong&gt;Size:&lt;/strong&gt; 750ml&lt;br /&gt;
-&lt;strong&gt;Price:&lt;/strong&gt; $24.99&lt;/p&gt;
-
-&lt;div class=&quot;gallery masonry-gallery&quot; id=&quot;JackDanielsFireShotglassGiftSet&quot;&gt;
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/38/JackDanielsFireShotGlassSet-1-1600-52c96c0c9.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Fire and 2 Shot Glasses&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/JackDanielsFireShotglassGiftSet/JackDanielsFireShotGlassSet-1/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/38/JackDanielsFireShotGlassSet-1-600-52c96c0c9.jpg&quot; alt=&quot;Jack Daniel's Fire and 2 Shot Glasses&quot; srcset=&quot;/images/generated/38/JackDanielsFireShotGlassSet-1-200-52c96c0c9.jpg 200w, /images/generated/38/JackDanielsFireShotGlassSet-1-400-52c96c0c9.jpg 400w, /images/generated/38/JackDanielsFireShotGlassSet-1-600-52c96c0c9.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Fire and 2 Shot Glasses&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Fire and 2 Shot Glasses&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/38/JackDanielsFireShotGlassSet-2-1600-e3bd40b33.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Fire and 2 Shot Glasses&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/JackDanielsFireShotglassGiftSet/JackDanielsFireShotGlassSet-2/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/38/JackDanielsFireShotGlassSet-2-600-e3bd40b33.jpg&quot; alt=&quot;Jack Daniel's Fire and 2 Shot Glasses&quot; srcset=&quot;/images/generated/38/JackDanielsFireShotGlassSet-2-200-e3bd40b33.jpg 200w, /images/generated/38/JackDanielsFireShotGlassSet-2-400-e3bd40b33.jpg 400w, /images/generated/38/JackDanielsFireShotGlassSet-2-600-e3bd40b33.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Fire and 2 Shot Glasses&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Fire and 2 Shot Glasses&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/38/JackDanielsFireShotGlassSet-3-1600-66f624c7a.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Fire and 2 Shot Glasses&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/JackDanielsFireShotglassGiftSet/JackDanielsFireShotGlassSet-3/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/38/JackDanielsFireShotGlassSet-3-600-66f624c7a.jpg&quot; alt=&quot;Jack Daniel's Fire and 2 Shot Glasses&quot; srcset=&quot;/images/generated/38/JackDanielsFireShotGlassSet-3-200-66f624c7a.jpg 200w, /images/generated/38/JackDanielsFireShotGlassSet-3-400-66f624c7a.jpg 400w, /images/generated/38/JackDanielsFireShotGlassSet-3-600-66f624c7a.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Fire and 2 Shot Glasses&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Fire and 2 Shot Glasses&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/38/JackDanielsFireShotGlassSet-4-1600-b095410d3.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's Fire and 2 Shot Glasses&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/JackDanielsFireShotglassGiftSet/JackDanielsFireShotGlassSet-4/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/38/JackDanielsFireShotGlassSet-4-600-b095410d3.jpg&quot; alt=&quot;Jack Daniel's Fire and 2 Shot Glasses&quot; srcset=&quot;/images/generated/38/JackDanielsFireShotGlassSet-4-200-b095410d3.jpg 200w, /images/generated/38/JackDanielsFireShotGlassSet-4-400-b095410d3.jpg 400w, /images/generated/38/JackDanielsFireShotGlassSet-4-600-b095410d3.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's Fire and 2 Shot Glasses&quot;&gt;
-				&lt;h3&gt;Jack Daniel's Fire and 2 Shot Glasses&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-&lt;/div&gt;
-
-&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
-	
-//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
-	$('.popup').on('mfpChange', function(e /*, params */) {
-	  //console.log('Popup changed',  $.magnificPopup.instance.index);
-	  //console.log('Popup instance',  $.magnificPopup.instance);
-	  //load the URL with index as a &amp;param
-	  originalUrl = window.location.href.split('?')[0];
-	  //load the image if the page loads and a param is passed 
-	  
-
-	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
-	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
-	});
-
-	$(document).ready(function ($) {
-    $('a.popup').magnificPopup({
-      type: 'image',
-      gallery: {
-        enabled: true,
-        navigateByImgClick: true,
-        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
-      },
-      image: {
-        titleSrc: function (item) {
-          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
-        }
-      }
-      // other options
-    });
-  });
-
-	//check if the url contains a photo
-	$( document ).ready(function($) {
-		// console.log( &quot;ready!&quot; );
-
-		//console.log('Page Load',  window.location.href.split('?')[1]);
-		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
-		if(galleryNameLoc&gt;0)
-		{
-			//console.log('Found Index',  index);
-			var gindex = window.location.href.substring(galleryNameLoc+12).split(&quot;&amp;&quot;)[0];
-			//console.log('G Index:', gindex);
-			//console.log('Item:',$('#' + gindex));
-			var galleryObj = $('#' + gindex);
-			var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
-
-			if(loc&gt;0)
-			{
-				//console.log('Found It',  window.location.href.substring(loc));
-				var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-				//console.log('Found Index',  index);
-				//lookup the image on the page if there are multiple galleries
-				
-				$('#' + gindex).find('.popup')[index].click();
-			}
-					
-		}
-		//var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
-		//if(loc&lt;0)
-		//{
-		//	//console.log('Found It',  window.location.href.substring(loc));
-		//	var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-		//	//console.log('Found Index',  index);
-		//	//lookup the image on the page if there are multiple galleries
-			
-		//	document.getElementsByClassName('popup')[index].click();
-		//}
-		
-	});
-&lt;/script&gt;
-
-</description>
-        <pubDate>Mon, 16 Nov 2020 22:00:00 +0000</pubDate>
-        <link>https://collectorofjack.com/JackDanielsFireShotglassGiftSet</link>
-        <guid isPermaLink="true">https://collectorofjack.com/JackDanielsFireShotglassGiftSet</guid>
         
         
       </item>

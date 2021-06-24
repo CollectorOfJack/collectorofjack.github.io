@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/2019-06-18-JackDanielsSingleBarrelRye/",
+      "date"     : "2021-06-24 23:24:38 +0000",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
       "title"    : "Jack Daniel&#39;s Visit June 2021",
       "category" : "",
       "tags"     : "",
@@ -283,15 +292,6 @@
       "title"    : "Jack Daniel&#39;s Rested Tennessee Rye",
       "category" : "",
       "tags"     : "",
-      "url"      : "/JackDanielsSingleBarrelRye",
-      "date"     : "2019-06-18 17:26:34 +0000",
-      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
-    } ,
-  
-    {
-      "title"    : "Jack Daniel&#39;s Rested Tennessee Rye",
-      "category" : "",
-      "tags"     : "",
       "url"      : "/JackDanielsRestedTennesseeRye",
       "date"     : "2019-06-18 17:24:44 +0000",
       "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
@@ -559,6 +559,710 @@
    } ,
   
    {
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEditionSeries-FirstEdition/LegacyEditionSeriesFirstEdition-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEditionSeries-FirstEdition/LegacyEditionSeriesFirstEdition-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEditionSeries-FirstEdition/LegacyEditionSeriesFirstEdition-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEditionSeries-FirstEdition/LegacyEditionSeriesFirstEdition-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEditionSeries-FirstEdition/LegacyEditionSeriesFirstEdition-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect2014-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect2014-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect2014-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect2014-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect2014-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect2014-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect2014-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Holiday Select Release from 2014",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/HolidaySelect2014/HolidaySelect2014-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack2013/WinterJackV1-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack2013/WinterJackV1-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack2013/WinterJackV1-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack2013/WinterJackV1-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack2013/WinterJackV1-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider from 2013",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack2013/WinterJackV1-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s ode to the Red Dog Saloon release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/RedDogSaloon/RedDogSaloon-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s ode to the Red Dog Saloon release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/RedDogSaloon/RedDogSaloon-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s ode to the Red Dog Saloon release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/RedDogSaloon/RedDogSaloon-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s ode to the Red Dog Saloon release",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/RedDogSaloon/RedDogSaloon-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack/WinterJack-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack/WinterJack-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack/WinterJack-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Winter Jack, Tennessee Cider",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/WinterJack/WinterJack-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsUnagedTennesseeRye/JackDanielsRye1-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsUnagedTennesseeRye/JackDanielsRye1-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsUnagedTennesseeRye/JackDanielsRye1-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsUnagedTennesseeRye/JackDanielsRye1-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series First Edition release, the green label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsUnagedTennesseeRye/JackDanielsRye1-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Rested Tennessee Rye, the second foray into Rye for Jack Daniels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRestedTennesseeRye/JackDanielsRestedRye-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Rested Tennessee Rye, the second foray into Rye for Jack Daniels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRestedTennesseeRye/JackDanielsRestedRye-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Rested Tennessee Rye, the second foray into Rye for Jack Daniels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRestedTennesseeRye/JackDanielsRestedRye-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Rested Tennessee Rye, the second foray into Rye for Jack Daniels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRestedTennesseeRye/JackDanielsRestedRye-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Rested Tennessee Rye, the second foray into Rye for Jack Daniels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsRestedTennesseeRye/JackDanielsRestedRye-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye 1 Liter",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye1L-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye 1 Liter",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye1L-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye 1 Liter",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye1L-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye 1 Liter",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye1L-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye 1 Liter",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye1L-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye 1 Liter",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye1L-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye750-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye750-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye750-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Tennessee Rye",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/JackDanielsTennesseeRye/JackDanielsRye750-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series Second Edition release, the red and black label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEdition2/JDLegacyEdition2-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series Second Edition release, the red and black label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEdition2/JDLegacyEdition2-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series Second Edition release, the red and black label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEdition2/JDLegacyEdition2-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series Second Edition release, the red and black label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEdition2/JDLegacyEdition2-4/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series Second Edition release, the red and black label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEdition2/JDLegacyEdition2-5/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series Second Edition release, the red and black label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEdition2/JDLegacyEdition2-6/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series Second Edition release, the red and black label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEdition2/JDLegacyEdition2-7/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series Second Edition release, the red and black label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEdition2/JDLegacyEdition2-8/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Jack Daniel&#39;s Legacy Edition Series Second Edition release, the red and black label",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/LegacyEdition2/JDLegacyEdition2-9/",
+        "date"     : "",
+        "content"   : null
      
    } ,
   
