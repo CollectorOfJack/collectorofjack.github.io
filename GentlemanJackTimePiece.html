@@ -262,79 +262,97 @@
 							>: 100<br /><strong>Size</strong>: 1L
 						</p>
 
-						<div class="gallery" data-columns="3">
-							<img
-								src="/images/generated/2/Day1-4-800-1c57343cb.jpg"
-								alt="Gentleman Jack Limited Edition Time Piece Bottle"
-								srcset="
-									/images/generated/2/Day1-4-200-1c57343cb.jpg   200w,
-									/images/generated/2/Day1-4-400-1c57343cb.jpg   400w,
-									/images/generated/2/Day1-4-800-1c57343cb.jpg   800w,
-									/images/generated/2/Day1-4-1600-1c57343cb.jpg 1600w,
-									/images/generated/2/Day1-4-1900-1c57343cb.jpg 1900w
-								"
-							/>
+						<div
+							class="gallery masonry-gallery"
+							id="GentlemanJackTimePiece"
+						></div>
 
-							<img
-								src="/images/generated/2/Day1-5-800-ab47a7ce2.jpg"
-								alt="Gentleman Jack Limited Edition Time Piece Bottle"
-								srcset="
-									/images/generated/2/Day1-5-200-ab47a7ce2.jpg   200w,
-									/images/generated/2/Day1-5-400-ab47a7ce2.jpg   400w,
-									/images/generated/2/Day1-5-800-ab47a7ce2.jpg   800w,
-									/images/generated/2/Day1-5-1600-ab47a7ce2.jpg 1600w,
-									/images/generated/2/Day1-5-1900-ab47a7ce2.jpg 1900w
-								"
-							/>
+						<script language="javascript" type="text/javascript">
+							//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
+							$(".popup").on("mfpChange", function (e /*, params */) {
+								//console.log('Popup changed',  $.magnificPopup.instance.index);
+								//console.log('Popup instance',  $.magnificPopup.instance);
+								//load the URL with index as a &param
+								originalUrl = window.location.href.split("?")[0];
+								//load the image if the page loads and a param is passed
 
-							<img
-								src="/images/generated/2/Day1-6-800-dc41276f4.jpg"
-								alt="Gentleman Jack Limited Edition Time Piece Bottle"
-								srcset="
-									/images/generated/2/Day1-6-200-dc41276f4.jpg   200w,
-									/images/generated/2/Day1-6-400-dc41276f4.jpg   400w,
-									/images/generated/2/Day1-6-800-dc41276f4.jpg   800w,
-									/images/generated/2/Day1-6-1600-dc41276f4.jpg 1600w,
-									/images/generated/2/Day1-6-1900-dc41276f4.jpg 1900w
-								"
-							/>
+								var newUrl = $.magnificPopup.instance.currItem.el.attr(
+									"data-url"
+								);
+								var newTitle = $.magnificPopup.instance.currItem.el.attr(
+									"title"
+								);
+								window.history.replaceState(
+									"object or string",
+									newTitle,
+									newUrl
+								); //"?rbmphoto=" + $.magnificPopup.instance.index);
+							});
 
-							<img
-								src="/images/generated/2/Day1-7-800-e15c9308b.jpg"
-								alt="Gentleman Jack Limited Edition Time Piece Bottle"
-								srcset="
-									/images/generated/2/Day1-7-200-e15c9308b.jpg   200w,
-									/images/generated/2/Day1-7-400-e15c9308b.jpg   400w,
-									/images/generated/2/Day1-7-800-e15c9308b.jpg   800w,
-									/images/generated/2/Day1-7-1600-e15c9308b.jpg 1600w,
-									/images/generated/2/Day1-7-1900-e15c9308b.jpg 1900w
-								"
-							/>
+							$(document).ready(function ($) {
+								$("a.popup").magnificPopup({
+									type: "image",
+									gallery: {
+										enabled: true,
+										navigateByImgClick: true,
+										preload: [0, 1], // Will preload 0 - before current, and 1 after the current image
+									},
+									image: {
+										titleSrc: function (item) {
+											return (
+												item.el.attr("title") +
+												"&nbsp;" +
+												item.el.attr("data-caption")
+											);
+										},
+									},
+									// other options
+								});
+							});
 
-							<img
-								src="/images/generated/2/Day1-8-800-757df67e0.jpg"
-								alt="Gentleman Jack Limited Edition Time Piece Bottle"
-								srcset="
-									/images/generated/2/Day1-8-200-757df67e0.jpg   200w,
-									/images/generated/2/Day1-8-400-757df67e0.jpg   400w,
-									/images/generated/2/Day1-8-800-757df67e0.jpg   800w,
-									/images/generated/2/Day1-8-1600-757df67e0.jpg 1600w,
-									/images/generated/2/Day1-8-1900-757df67e0.jpg 1900w
-								"
-							/>
+							//check if the url contains a photo
+							$(document).ready(function ($) {
+								// console.log( "ready!" );
 
-							<img
-								src="/images/generated/2/Day1-9-800-b021725f1.jpg"
-								alt="Gentleman Jack Limited Edition Time Piece Bottle"
-								srcset="
-									/images/generated/2/Day1-9-200-b021725f1.jpg   200w,
-									/images/generated/2/Day1-9-400-b021725f1.jpg   400w,
-									/images/generated/2/Day1-9-800-b021725f1.jpg   800w,
-									/images/generated/2/Day1-9-1600-b021725f1.jpg 1600w,
-									/images/generated/2/Day1-9-1900-b021725f1.jpg 1900w
-								"
-							/>
-						</div>
+								//console.log('Page Load',  window.location.href.split('?')[1]);
+								var galleryNameLoc = window.location.href.indexOf(
+									"galleryname="
+								);
+								if (galleryNameLoc > 0) {
+									//console.log('Found Index',  index);
+									var gindex = window.location.href
+										.substring(galleryNameLoc + 12)
+										.split("&")[0];
+									//console.log('G Index:', gindex);
+									//console.log('Item:',$('#' + gindex));
+									var galleryObj = $("#" + gindex);
+									var loc = window.location.href.indexOf("rbmphoto=");
+
+									if (loc > 0) {
+										//console.log('Found It',  window.location.href.substring(loc));
+										var index = window.location.href
+											.substring(loc + 9)
+											.split("&")[0];
+										//console.log('Found Index',  index);
+										//lookup the image on the page if there are multiple galleries
+
+										$("#" + gindex)
+											.find(".popup")
+											[index].click();
+									}
+								}
+								//var loc = window.location.href.indexOf("rbmphoto=")
+								//if(loc<0)
+								//{
+								//	//console.log('Found It',  window.location.href.substring(loc));
+								//	var index = window.location.href.substring(loc+9).split("&")[0];
+								//	//console.log('Found Index',  index);
+								//	//lookup the image on the page if there are multiple galleries
+
+								//	document.getElementsByClassName('popup')[index].click();
+								//}
+							});
+						</script>
 
 						<br />
 						<br />
