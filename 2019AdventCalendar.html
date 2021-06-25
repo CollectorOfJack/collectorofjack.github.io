@@ -46,21 +46,21 @@
 		<!-- Custom CSS -->
 		<link
 			rel="stylesheet"
-			href="/css/WYSIWYG.css?v=1624636326"
+			href="/css/WYSIWYG.css?v=1624636583"
 			media="screen"
 		/>
-		<link rel="stylesheet" href="/css/main.css?v=1624636326" />
-		<link rel="stylesheet" href="/css/galleries.css?v=1624636326" />
-		<link rel="stylesheet" href="/css/magnificpopup.css?v=1624636326" />
+		<link rel="stylesheet" href="/css/main.css?v=1624636583" />
+		<link rel="stylesheet" href="/css/galleries.css?v=1624636583" />
+		<link rel="stylesheet" href="/css/magnificpopup.css?v=1624636583" />
 
 		<link
 			rel="stylesheet"
-			href="/css/tags-wrap.css?v=1624636326"
+			href="/css/tags-wrap.css?v=1624636583"
 			media="screen"
 		/>
 		<link
 			rel="stylesheet"
-			href="/css/journal.css?v=1624636326"
+			href="/css/journal.css?v=1624636583"
 			media="screen"
 		/>
 		<!-- Custom Fonts -->
@@ -470,11 +470,15 @@
 								var newTitle = $.magnificPopup.instance.currItem.el.attr(
 									"title"
 								);
-								window.history.pushState("object or string", newTitle, newUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
+								window.history.replaceState(
+									"object or string",
+									newTitle,
+									newUrl
+								); //"?rbmphoto=" + $.magnificPopup.instance.index);
 							});
 
 							$(".popup").on("mfpClose", function (e /*, params */) {
-								window.history.pushState({}, "", pageUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
+								window.history.replaceState({}, "", pageUrl); //"?rbmphoto=" + $.magnificPopup.instance.index);
 							});
 
 							$(document).ready(function ($) {
