@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Jack Daniel&#39;s Tennessee Taster&#39;s Series Barrel Reunion 2",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/BarrelReunion2",
+      "date"     : "2021-06-24 22:20:00 +0000",
+      "content"   : "[\n  {% for post in site.posts %}\n    {\n      \"title\"    : \"{{ post.title | escape }}\",\n      \"category\" : \"{{ post.category }}\",\n      \"tags\"     : \"{{ post.tags | join: ', ' }}\",\n      \"url\"      : \"{{ site.baseurl }}{{ post.url }}\",\n      \"date\"     : \"{{ post.date }}\",\n      \"content\"   : {{ page.content | jsonify }}\n    } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n  ,\n  {% for page in site.pages %}\n   {\n     {% if page.title != nil %}\n        \"title\"    : \"{{ page.title | escape }}\",\n        \"category\" : \"{{ page.category }}\",\n        \"tags\"     : \"{{ page.tags | join: ', ' }}\",\n        \"url\"      : \"{{ site.baseurl }}{{ page.url }}\",\n        \"date\"     : \"{{ page.date }}\",\n        \"content\"   : {{ page.content | jsonify }}\n     {% endif %}\n   } {% unless forloop.last %},{% endunless %}\n  {% endfor %}\n]"
+    } ,
+  
+    {
       "title"    : "Jack Daniel&#39;s Visit June 2021",
       "category" : "",
       "tags"     : "",
@@ -4330,6 +4339,50 @@
         "category" : "",
         "tags"     : "",
         "url"      : "/galleries/JackDanielsDistilleryVisit2021g2/Trip2021-25/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tennessee Taster&#39;s Barrel Reunion 2 Finished in Oatmeal Sout Barrels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BarrelReunion2/BarrelReunion2-1/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tennessee Taster&#39;s Barrel Reunion 2 Finished in Oatmeal Sout Barrels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BarrelReunion2/BarrelReunion2-2/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tennessee Taster&#39;s Barrel Reunion 2 Finished in Oatmeal Sout Barrels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BarrelReunion2/BarrelReunion2-3/",
+        "date"     : "",
+        "content"   : null
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tennessee Taster&#39;s Barrel Reunion 2 Finished in Oatmeal Sout Barrels",
+        "category" : "",
+        "tags"     : "",
+        "url"      : "/galleries/BarrelReunion2/BarrelReunion2-4/",
         "date"     : "",
         "content"   : null
      
