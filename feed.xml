@@ -5,9 +5,99 @@
     <description>A blog for collecting Jack Daniel's bottles and memorabilia</description>
     <link>https://collectorofjack.com/</link>
     <atom:link href="https://collectorofjack.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 01 Jul 2021 01:49:55 +0000</pubDate>
-    <lastBuildDate>Thu, 01 Jul 2021 01:49:55 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Jul 2021 16:34:47 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Jul 2021 16:34:47 +0000</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Happy Fourth of July 2021</title>
+        <description>&lt;h1 id=&quot;happy-fourth-of-july-2021&quot;&gt;Happy Fourth Of July 2021&lt;/h1&gt;
+
+&lt;div class=&quot;gallery masonry-gallery&quot; id=&quot;FourthOfJuly2021&quot;&gt;
+  
+&lt;/div&gt;
+
+&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
+	var pageUrl = &quot;/FourthOfJuly2021&quot;;
+//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
+	$('.popup').on('mfpChange', function(e /*, params */) {
+	  originalUrl = window.location.href.split('?')[0];
+	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
+	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
+	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
+	});
+
+	$('.popup').on('mfpClose', function(e /*, params */) {
+	  
+	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
+	  
+	});
+
+	$(document).ready(function ($) {
+    $('a.popup').magnificPopup({
+      type: 'image',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        titleSrc: function (item) {
+          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
+        }
+      }
+      // other options
+    });
+  });
+
+	//check if the url contains a photo
+	$( document ).ready(function($) {
+		// console.log( &quot;ready!&quot; );
+
+		//console.log('Page Load',  window.location.href.split('?')[1]);
+		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
+		if(galleryNameLoc&gt;0)
+		{
+			//console.log('Found Index',  index);
+			var gindex = window.location.href.substring(galleryNameLoc+12).split(&quot;&amp;&quot;)[0];
+			//console.log('G Index:', gindex);
+			//console.log('Item:',$('#' + gindex));
+			var galleryObj = $('#' + gindex);
+			var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+
+			if(loc&gt;0)
+			{
+				//console.log('Found It',  window.location.href.substring(loc));
+				var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
+				//console.log('Found Index',  index);
+				//lookup the image on the page if there are multiple galleries
+				
+				$('#' + gindex).find('.popup')[index].click();
+			}
+					
+		}
+		//var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
+		//if(loc&lt;0)
+		//{
+		//	//console.log('Found It',  window.location.href.substring(loc));
+		//	var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
+		//	//console.log('Found Index',  index);
+		//	//lookup the image on the page if there are multiple galleries
+			
+		//	document.getElementsByClassName('popup')[index].click();
+		//}
+		
+	});
+&lt;/script&gt;
+
+</description>
+        <pubDate>Sat, 03 Jul 2021 10:20:00 +0000</pubDate>
+        <link>https://collectorofjack.com/FourthOfJuly2021</link>
+        <guid isPermaLink="true">https://collectorofjack.com/FourthOfJuly2021</guid>
+        
+        
+      </item>
     
       <item>
         <title>Jack Daniel's Tennessee Tasters' Series Jamaican Allspice</title>
@@ -2826,288 +2916,6 @@ An 11-year old barre, hand selected and chosen by our founders, Nerest Green (TM
         <pubDate>Mon, 30 Nov 2020 10:00:00 +0000</pubDate>
         <link>https://collectorofjack.com/UncleNearest1820</link>
         <guid isPermaLink="true">https://collectorofjack.com/UncleNearest1820</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>2020 Holiday Countdown Calendar</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/2019AdventCalendar&quot;&gt;Last year, Jack Daniel’s brought their Holiday Countdown Calendar&lt;/a&gt; to the states, this year they bring it again and supposedly make it easier to find!&lt;/p&gt;
-
-&lt;p&gt;That being said, I haven’t seen one in Missouri since early October (I was able to get some from Total Wine here in the St. Louis area). Which is a step up from last year. I had to drive to Memphis to find one, I couldn’t find them in St. Louis until January. Once they were here though, Lukas (Dogwood) had them until late summer, I may have purchased a case of them late in the summer.&lt;/p&gt;
-
-&lt;p&gt;This year’s box doesn’t vary much from last year’s. The design on the outside is new, and they also included Tennessee Apple.&lt;/p&gt;
-
-&lt;p&gt;There’s a sleeve around the box, the front reads:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Jack Daniel’s Holiday Countdown Calendar 
-20 x 50ml + 4 GIFTS INSIDE
-With Jack Daniel’s Old No. 7, Single Barrel Select, Gentleman Jack, Tennessee Rye, Tennessee Honey, Tennessee Fire and Tennessee Apple&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The back has the logos, and a description of each of the various libations along with:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Happy Holidays from Our Family to Yours
-In Lynchburg, Tennessee, the holidays are about traditions old and new. While old traditions warm the heart, there’s something special about starting a new one. We hope that as you open a new calendar door, you’ll share a toast with the folks closest to you.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The front of the box has 24 boxes, one for each day, with various scenes around Lunchburg with the Jack Daniel’s statue front and center. Some of the scenes include the Hardware Store, Jack Daniel’s grave, Miss Mary Bobo’s, The Motlow House and Jack’s Office.&lt;/p&gt;
-
-&lt;p&gt;The sides and rear of the box read:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Jack Daniel’s Distillery Lynchburg Tenn.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Be sure to follow our &lt;a href=&quot;https://instagram.com/collectorofjack&quot;&gt;Instagram Account&lt;/a&gt; to follow along as we open one of this year’s calendars.&lt;/p&gt;
-
-&lt;p&gt;If you’re looking for last year’s calendar, we’ve still got some to trade for other Jack bottles.&lt;/p&gt;
-
-&lt;h4 id=&quot;specs&quot;&gt;Specs&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; 2020 &lt;br /&gt;
-&lt;strong&gt;Proof:&lt;/strong&gt; Varies&lt;br /&gt;
-&lt;strong&gt;Size:&lt;/strong&gt; 20 x 50ml&lt;br /&gt;
-&lt;strong&gt;Price:&lt;/strong&gt; $40.99&lt;/p&gt;
-
-&lt;div class=&quot;gallery masonry-gallery&quot; id=&quot;2020HolidayCountdownCalendar&quot;&gt;
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/40/HolidayCountdown2020-1-1600-92642ef28.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020HolidayCountdownCalendar/HolidayCountdown2020-1/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/40/HolidayCountdown2020-1-600-92642ef28.jpg&quot; alt=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot; srcset=&quot;/images/generated/40/HolidayCountdown2020-1-200-92642ef28.jpg 200w, /images/generated/40/HolidayCountdown2020-1-400-92642ef28.jpg 400w, /images/generated/40/HolidayCountdown2020-1-600-92642ef28.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot;&gt;
-				&lt;h3&gt;Jack Daniel's 2020 Holiday Countdown Calendar&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/40/HolidayCountdown2020-2-1600-5ffb2cbe2.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020HolidayCountdownCalendar/HolidayCountdown2020-2/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/40/HolidayCountdown2020-2-600-5ffb2cbe2.jpg&quot; alt=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot; srcset=&quot;/images/generated/40/HolidayCountdown2020-2-200-5ffb2cbe2.jpg 200w, /images/generated/40/HolidayCountdown2020-2-400-5ffb2cbe2.jpg 400w, /images/generated/40/HolidayCountdown2020-2-600-5ffb2cbe2.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot;&gt;
-				&lt;h3&gt;Jack Daniel's 2020 Holiday Countdown Calendar&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/40/HolidayCountdown2020-3-1600-931a1aa04.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020HolidayCountdownCalendar/HolidayCountdown2020-3/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/40/HolidayCountdown2020-3-600-931a1aa04.jpg&quot; alt=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot; srcset=&quot;/images/generated/40/HolidayCountdown2020-3-200-931a1aa04.jpg 200w, /images/generated/40/HolidayCountdown2020-3-400-931a1aa04.jpg 400w, /images/generated/40/HolidayCountdown2020-3-600-931a1aa04.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot;&gt;
-				&lt;h3&gt;Jack Daniel's 2020 Holiday Countdown Calendar&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/40/HolidayCountdown2020-4-1600-015b4e8ec.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020HolidayCountdownCalendar/HolidayCountdown2020-4/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/40/HolidayCountdown2020-4-600-015b4e8ec.jpg&quot; alt=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot; srcset=&quot;/images/generated/40/HolidayCountdown2020-4-200-015b4e8ec.jpg 200w, /images/generated/40/HolidayCountdown2020-4-400-015b4e8ec.jpg 400w, /images/generated/40/HolidayCountdown2020-4-600-015b4e8ec.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot;&gt;
-				&lt;h3&gt;Jack Daniel's 2020 Holiday Countdown Calendar&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/40/HolidayCountdown2020-5-1600-7207720b6.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020HolidayCountdownCalendar/HolidayCountdown2020-5/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/40/HolidayCountdown2020-5-600-7207720b6.jpg&quot; alt=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot; srcset=&quot;/images/generated/40/HolidayCountdown2020-5-200-7207720b6.jpg 200w, /images/generated/40/HolidayCountdown2020-5-400-7207720b6.jpg 400w, /images/generated/40/HolidayCountdown2020-5-600-7207720b6.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot;&gt;
-				&lt;h3&gt;Jack Daniel's 2020 Holiday Countdown Calendar&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/40/HolidayCountdown2020-6-1600-a116aa33c.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020HolidayCountdownCalendar/HolidayCountdown2020-6/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/40/HolidayCountdown2020-6-600-a116aa33c.jpg&quot; alt=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot; srcset=&quot;/images/generated/40/HolidayCountdown2020-6-200-a116aa33c.jpg 200w, /images/generated/40/HolidayCountdown2020-6-400-a116aa33c.jpg 400w, /images/generated/40/HolidayCountdown2020-6-600-a116aa33c.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot;&gt;
-				&lt;h3&gt;Jack Daniel's 2020 Holiday Countdown Calendar&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-
-  &lt;figure class=&quot;gallery-item&quot;&gt;
-
-	&lt;header class=&quot;gallery-icon&quot;&gt;
-
-		&lt;!-- galleries/UnboundGravelAlmaCheckPoint/AlmaCheckPoint-1 --&gt;
-		
-		&lt;a href=&quot;/images/generated/40/HolidayCountdown2020-7-1600-553b3c5b5.jpg&quot; class=&quot;popup&quot; title=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot; data-caption=&quot;© CollectorOfJack.com&quot; data-url=&quot;/galleries/2020HolidayCountdownCalendar/HolidayCountdown2020-7/ &quot;&gt;
-			&lt;img src=&quot;/images/generated/40/HolidayCountdown2020-7-600-553b3c5b5.jpg&quot; alt=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot; srcset=&quot;/images/generated/40/HolidayCountdown2020-7-200-553b3c5b5.jpg 200w, /images/generated/40/HolidayCountdown2020-7-400-553b3c5b5.jpg 400w, /images/generated/40/HolidayCountdown2020-7-600-553b3c5b5.jpg 600w&quot; /&gt;
-
-		&lt;/a&gt;
-	&lt;/header&gt;	
-		
-   &lt;figcaption class=&quot;gallery-caption&quot;&gt;
-		&lt;div class=&quot;entry-summary&quot; id=&quot;Jack Daniel's 2020 Holiday Countdown Calendar&quot;&gt;
-				&lt;h3&gt;Jack Daniel's 2020 Holiday Countdown Calendar&lt;/h3&gt;
-					&lt;p&gt;© CollectorOfJack.com&lt;/p&gt;
-		&lt;/div&gt;
-	&lt;/figcaption&gt;
-  &lt;/figure&gt;
-
-  
-&lt;/div&gt;
-
-&lt;script language=&quot;javascript&quot; type=&quot;text/javascript&quot;&gt;
-	var pageUrl = &quot;/2020HolidayCountdownCalendar&quot;;
-//	_mfpOn('BeforeChange', function(e, prevType, newType) {alert('change'); });
-	$('.popup').on('mfpChange', function(e /*, params */) {
-	  originalUrl = window.location.href.split('?')[0];
-	  var newUrl = $.magnificPopup.instance.currItem.el.attr('data-url');
-	  var newTitle = $.magnificPopup.instance.currItem.el.attr('title')
-	  window.history.replaceState(&quot;object or string&quot;, newTitle, newUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
-	  
-	});
-
-	$('.popup').on('mfpClose', function(e /*, params */) {
-	  
-	  window.history.replaceState({}, '', pageUrl); //&quot;?rbmphoto=&quot; + $.magnificPopup.instance.index);
-	  
-	});
-
-	$(document).ready(function ($) {
-    $('a.popup').magnificPopup({
-      type: 'image',
-      gallery: {
-        enabled: true,
-        navigateByImgClick: true,
-        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
-      },
-      image: {
-        titleSrc: function (item) {
-          return item.el.attr('title') + '&amp;nbsp;' + item.el.attr('data-caption');
-        }
-      }
-      // other options
-    });
-  });
-
-	//check if the url contains a photo
-	$( document ).ready(function($) {
-		// console.log( &quot;ready!&quot; );
-
-		//console.log('Page Load',  window.location.href.split('?')[1]);
-		var galleryNameLoc = window.location.href.indexOf(&quot;galleryname=&quot;)
-		if(galleryNameLoc&gt;0)
-		{
-			//console.log('Found Index',  index);
-			var gindex = window.location.href.substring(galleryNameLoc+12).split(&quot;&amp;&quot;)[0];
-			//console.log('G Index:', gindex);
-			//console.log('Item:',$('#' + gindex));
-			var galleryObj = $('#' + gindex);
-			var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
-
-			if(loc&gt;0)
-			{
-				//console.log('Found It',  window.location.href.substring(loc));
-				var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-				//console.log('Found Index',  index);
-				//lookup the image on the page if there are multiple galleries
-				
-				$('#' + gindex).find('.popup')[index].click();
-			}
-					
-		}
-		//var loc = window.location.href.indexOf(&quot;rbmphoto=&quot;)
-		//if(loc&lt;0)
-		//{
-		//	//console.log('Found It',  window.location.href.substring(loc));
-		//	var index = window.location.href.substring(loc+9).split(&quot;&amp;&quot;)[0];
-		//	//console.log('Found Index',  index);
-		//	//lookup the image on the page if there are multiple galleries
-			
-		//	document.getElementsByClassName('popup')[index].click();
-		//}
-		
-	});
-&lt;/script&gt;
-
-</description>
-        <pubDate>Sun, 29 Nov 2020 20:00:00 +0000</pubDate>
-        <link>https://collectorofjack.com/2020HolidayCountdownCalendar</link>
-        <guid isPermaLink="true">https://collectorofjack.com/2020HolidayCountdownCalendar</guid>
         
         
       </item>
