@@ -43,21 +43,21 @@
 		<!-- Custom CSS -->
 		<link
 			rel="stylesheet"
-			href="/css/WYSIWYG.css?v=1625330087"
+			href="/css/WYSIWYG.css?v=1625330238"
 			media="screen"
 		/>
-		<link rel="stylesheet" href="/css/main.css?v=1625330087" />
-		<link rel="stylesheet" href="/css/galleries.css?v=1625330087" />
-		<link rel="stylesheet" href="/css/magnificpopup.css?v=1625330087" />
+		<link rel="stylesheet" href="/css/main.css?v=1625330238" />
+		<link rel="stylesheet" href="/css/galleries.css?v=1625330238" />
+		<link rel="stylesheet" href="/css/magnificpopup.css?v=1625330238" />
 
 		<link
 			rel="stylesheet"
-			href="/css/tags-wrap.css?v=1625330087"
+			href="/css/tags-wrap.css?v=1625330238"
 			media="screen"
 		/>
 		<link
 			rel="stylesheet"
-			href="/css/journal.css?v=1625330087"
+			href="/css/journal.css?v=1625330238"
 			media="screen"
 		/>
 		<!-- Custom Fonts -->
@@ -122,6 +122,43 @@
 			integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF"
 			crossorigin="anonymous"
 		></script>
+
+		<!-- Facebook Pixel Code -->
+		<script>
+			!(function (f, b, e, v, n, t, s) {
+				if (f.fbq) return;
+				n = f.fbq = function () {
+					n.callMethod
+						? n.callMethod.apply(n, arguments)
+						: n.queue.push(arguments);
+				};
+				if (!f._fbq) f._fbq = n;
+				n.push = n;
+				n.loaded = !0;
+				n.version = "2.0";
+				n.queue = [];
+				t = b.createElement(e);
+				t.async = !0;
+				t.src = v;
+				s = b.getElementsByTagName(e)[0];
+				s.parentNode.insertBefore(t, s);
+			})(
+				window,
+				document,
+				"script",
+				"https://connect.facebook.net/en_US/fbevents.js"
+			);
+			fbq("init", "506426110470949");
+			fbq("track", "PageView");
+		</script>
+		<noscript
+			><img
+				height="1"
+				width="1"
+				style="display: none"
+				src="https://www.facebook.com/tr?id=506426110470949&ev=PageView&noscript=1"
+		/></noscript>
+		<!-- End Facebook Pixel Code -->
 	</head>
 
 	<body>
